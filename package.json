@@ -11,7 +11,7 @@
   },
   "devDependencies": {
     "budo": "^7.0.0",
-    "ghpages": "0.0.1"
+    "ghpages": "0.0.2"
   },
   "keywords": [
     "aframe",
