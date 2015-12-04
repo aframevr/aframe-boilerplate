@@ -7,7 +7,9 @@ Pull requests are welcome!
 
 ## Getting Started
 
-### Download ZIP now
+There are two easy options for obtaining this A-Frame scene. It's then up to you to make it your own!
+
+### <sup>Option 1:</sup> Download the ZIP kit 📦
 
 [<img src="http://i.imgur.com/UVPZoM0.png" width="200">](https://github.com/aframevr/a-hello-world/archive/master.zip)
 
@@ -15,7 +17,11 @@ After you have __[downloaded and extracted this `.zip` file](https://github.com/
 
     npm install && npm start
 
-### Using Git
+<hr>
+
+### <small><sup>Option 2:</sup> Fork this Git repo 🍴
+
+Alternatively, you can __[fork this repo](https://github.com/aframevr/a-hello-world/fork)__ to get started, if you'd like to maintain a Git workflow.
 
 After you have __[forked this repo](https://github.com/aframevr/a-hello-world/fork)__, clone a copy of your fork locally and you'll be have your scene ready in these few steps:
 
