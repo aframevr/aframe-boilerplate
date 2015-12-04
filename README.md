@@ -9,10 +9,12 @@ Pull requests are welcome!
 
 After you have __[forked this repo](https://github.com/aframevr/a-hello-world/fork)__, clone a copy of your fork locally and you'll be have your scene ready in a few steps:
 
-    git clone git@github.com:$(git config github.user)/a-hello-world.git
+    git clone git@github.com:your_username/a-hello-world.git
     cd a-hello-world
     npm install
     npm start
+
+And open `package.json` and change `"repository": "aframevr/a-hello-world"` to `"repository": "your_username/a-hello-world"`.
 
 
 ## Publishing your scene
