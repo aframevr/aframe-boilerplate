@@ -22,19 +22,23 @@ After you have __[forked this repo](https://github.com/aframevr/a-hello-world/fo
     git clone git@github.com:your_username/a-hello-world.git
     cd a-hello-world && npm install && npm start
 
-Then, open `package.json` and change `"repository": "aframevr/a-hello-world"` to `"repository": "your_username/a-hello-world"`.
-
 ## Publishing your scene
 
 If you don't already know, GitHub offers free and awesome publishing of static sites via __[https://pages.github.com/](GitHub Pages)__.
 
 To publish your scene to your personal GitHub Pages:
 
-    npm run ghpages
+    npm run deploy
 
 And, it'll now be live at __http://`your_username`.github.io/__ :)
 
-## Need Help?
+<hr>
+
+To know which GitHub repo to deploy to, the `deploy` script first looks at the optional [`repository` key](https://docs.npmjs.com/files/package.json#repository) in the [`package.json` file](package.json) (see [npm docs](https://docs.npmjs.com/files/package.json#repository) for sample usage). If the `repository` key is missing, the script falls back to using the local git repo's remote origin URL (you can run the local command `git remote -v` to see all your remotes; also, you may refer to the [GitHub docs](https://help.github.com/articles/about-remote-repositories/) for more information).
+
+<hr>
+
+## Still need Help?
 
 ### Installation
 
