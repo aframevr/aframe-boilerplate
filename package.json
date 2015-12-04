@@ -1,0 +1,21 @@
+{
+  "name": "aframe-hello-world",
+  "description": "Hello World: a WebVR scene built using A-Frame",
+  "version": "0.0.0",
+  "license": "MIT",
+  "author": "A-Frame",
+  "repository": "aframevr/a-hello-world",
+  "scripts": {
+    "start": "budo --live --verbose --port 3000 --open",
+    "deploy": "ghpages"
+  },
+  "devDependencies": {
+    "budo": "^7.0.0",
+    "ghpages": "0.0.1"
+  },
+  "keywords": [
+    "aframe",
+    "aframe-example",
+    "aframe-scene"
+  ]
+}
