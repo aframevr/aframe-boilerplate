@@ -1,19 +1,32 @@
 # a-hello-world
 
-Hello World: a WebVR scene built using A-Frame.
+__Hello World:__ a WebVR scene built using A-Frame.
 
 Pull requests are welcome!
 
 
 ## Getting Started
 
-After you have __[forked this repo](https://github.com/aframevr/a-hello-world/fork)__, clone a copy of your fork locally:
+After you have __[forked this repo](https://github.com/aframevr/a-hello-world/fork)__, clone a copy of your fork locally and you'll be have your scene ready in a few steps:
 
-    git clone git@github.com:your_username/a-hello-world.git
+    git clone git@github.com:$(git config github.user)/a-hello-world.git
     cd a-hello-world
+    npm install
+    npm start
 
 
-## Installation
+## Publishing your scene
+
+If you don't already know, GitHub offers free and awesome publishing of static sites via __[https://pages.github.com/](GitHub Pages)__.
+
+To publish the scene to your personal GitHub Pages:
+
+    npm run ghpages
+
+
+## Need Help?
+
+### Installation
 
 First make sure you have Node installed.
 
@@ -26,7 +39,7 @@ To install the Node dependencies:
     npm install
 
 
-## Local Development
+### Local Development
 
 To serve the site from a simple Node development server:
 
@@ -39,12 +52,3 @@ Then launch the site from your favourite browser:
 If you wish to serve the site from a different port:
 
     PORT=8000 npm start
-
-
-## Publishing your scene
-
-If you don't already know, GitHub offers free and awesome publishing of static sites via __[https://pages.github.com/](GitHub Pages)__.
-
-To publish the scene to your personal GitHub Pages:
-
-    npm run ghpages
