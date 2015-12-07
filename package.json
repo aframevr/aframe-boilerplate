@@ -1,6 +1,6 @@
 {
-  "name": "aframe-hello-world",
-  "description": "Hello World: a WebVR scene built using A-Frame",
+  "name": "aframe-boilerplate",
+  "description": "Boilerplate for creating WebVR scenes using A-Frame",
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
@@ -15,6 +15,7 @@
   "keywords": [
     "aframe",
     "aframe-example",
-    "aframe-scene"
+    "aframe-scene",
+    "aframe-boilerplate"
   ]
 }
