@@ -1,8 +1,6 @@
-# a-hello-world
+# aframe-boilerplate
 
-__Hello World:__ a WebVR scene built using A-Frame.
-
-Pull requests are welcome!
+Boilerplate for creating WebVR scenes using A-Frame.
 
 
 ## Getting Started
@@ -11,9 +9,9 @@ There are two easy options for obtaining this A-Frame scene. It's then up to you
 
 ### <sup>Option 1:</sup> Download the ZIP kit 📦
 
-[<img src="http://i.imgur.com/UVPZoM0.png" width="200">](https://github.com/aframevr/a-hello-world/archive/master.zip)
+[<img src="http://i.imgur.com/UVPZoM0.png" width="200">](https://github.com/aframevr/aframe-boilerplate/archive/master.zip)
 
-After you have __[downloaded and extracted this `.zip` file](https://github.com/aframevr/a-hello-world/archive/master.zip)__ containing the contents of this repo, open the resulting directory, and you'll be have your scene ready in these few steps:
+After you have __[downloaded and extracted this `.zip` file](https://github.com/aframevr/aframe-boilerplate/archive/master.zip)__ containing the contents of this repo, open the resulting directory, and you'll be have your scene ready in these few steps:
 
     npm install && npm start
 
@@ -21,16 +19,16 @@ After you have __[downloaded and extracted this `.zip` file](https://github.com/
 
 ### <small><sup>Option 2:</sup> Fork this Git repo 🍴
 
-Alternatively, you can __[fork this repo](https://github.com/aframevr/a-hello-world/fork)__ to get started, if you'd like to maintain a Git workflow.
+Alternatively, you can __[fork this repo](https://github.com/aframevr/aframe-boilerplate/fork)__ to get started, if you'd like to maintain a Git workflow.
 
-After you have __[forked this repo](https://github.com/aframevr/a-hello-world/fork)__, clone a copy of your fork locally and you'll be have your scene ready in these few steps:
+After you have __[forked this repo](https://github.com/aframevr/aframe-boilerplate/fork)__, clone a copy of your fork locally and you'll be have your scene ready in these few steps:
 
-    git clone git@github.com:your_username/a-hello-world.git
-    cd a-hello-world && npm install && npm start
+    git clone git@github.com:your_username/aframe-boilerplate.git
+    cd aframe-boilerplate && npm install && npm start
 
 ## Publishing your scene
 
-If you don't already know, GitHub offers free and awesome publishing of static sites via __[https://pages.github.com/](GitHub Pages)__.
+If you don't already know, GitHub offers free and awesome publishing of static sites through __[https://pages.github.com/](GitHub Pages)__.
 
 To publish your scene to your personal GitHub Pages:
 
