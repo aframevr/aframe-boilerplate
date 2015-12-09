@@ -1,4 +1,4 @@
-# aframe-boilerplate
+# A-Frame Boilerplate
 
 Boilerplate for creating WebVR scenes using A-Frame.
 
