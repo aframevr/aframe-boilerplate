@@ -28,7 +28,7 @@ After you have __[forked this repo](https://github.com/aframevr/aframe-boilerpla
 
 ### <small><sup>Option 3:</sup> Fork this CodePen example
 
-Or, you can simply __[fork this CodePen example](http://codepen.io/team/mozvr/pen/2ac060c354546201f3337b83fbdcd110?editors=100)__ to dive right in. Enjoy!
+Or, you can simply __[fork this CodePen example](http://codepen.io/team/mozvr/pen/BjygdO?editors=100)__ to dive right in. Enjoy!
 
 
 ## Publishing your scene
