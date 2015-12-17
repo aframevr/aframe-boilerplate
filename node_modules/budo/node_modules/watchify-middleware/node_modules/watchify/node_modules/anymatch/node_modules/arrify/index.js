@@ -1,6 +1,6 @@
 'use strict';
 module.exports = function (val) {
-	if (val == null) {
+	if (val === null || val === undefined) {
 		return [];
 	}
 
