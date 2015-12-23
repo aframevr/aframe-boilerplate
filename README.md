@@ -17,7 +17,7 @@ After you have __[downloaded and extracted this `.zip` file](https://github.com/
 
 <hr>
 
-### <small><sup>Option 2:</sup> Fork this Git repo 🍴
+### <small><sup>Option 2:</sup> Fork this Git repo 🍴🐙
 
 Alternatively, you can __[fork this repo](https://github.com/aframevr/aframe-boilerplate/fork)__ to get started, if you'd like to maintain a Git workflow.
 
@@ -26,7 +26,9 @@ After you have __[forked this repo](https://github.com/aframevr/aframe-boilerpla
     git clone git@github.com:your_username/aframe-boilerplate.git
     cd aframe-boilerplate && npm install && npm start
 
-### <small><sup>Option 3:</sup> Fork this CodePen example
+<hr>
+
+### <small><sup>Option 3:</sup> Fork this CodePen example 🍴💾✒️
 
 Or, you can simply __[fork this CodePen example](http://codepen.io/team/mozvr/pen/BjygdO?editors=100)__ to dive right in. Enjoy!
 
