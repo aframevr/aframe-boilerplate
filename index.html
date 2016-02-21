@@ -9,25 +9,11 @@
   <body>
     <a-scene>
 
-            <a-sphere position="0 1.25 -1" radius="1.25" color="#EF2D5E"></a-sphere>
-
-      <a-cube position="-1 0.5 1" rotation="0 45 0" width="1" height="1" depth="1" color="#4CC3D9">
-      <a-animation attribute="rotation" from="0 0 0" to="0 180 0" repeat="indefinite" easing="linear"></a-animation>
-      </a-cube>
 
 
-      <a-cylinder position="1 0.75 1" radius="0.5" height="1.5" color="#FFC65D"></a-cylinder>
+      <a-curvedimage src="../images/Intro_page.png" radius="100" theta-length="200" height="200" position="-1 5 -5" rotation="0 100 0" scale="0.1 0.1 0.1"></a-curvedimage>
 
-      <a-plane rotation="-90 0 0" width="4" height="4" color="#7BC8A4"></a-plane>
-
-
-      <a-cylinder position="1.5 5 -5" radius="0.5" height="1.5" depth="5" color="#a60066">
-      <!-- position = x y z -->
-
-      <a-animation attribute="rotation" from="-360 -180 -90" to="360 180 90" repeat="indefinite" easing="linear"></a-animation>
-      </a-cylinder>
-
-      <a-light color="white" angle="150" intensity="2" position="-4 1 0"></a-light>
+      <a-curvedimage src="../images/about_me.png"radius="100" theta-length="200" height="200" position="-1 5 10" rotation="0 -100 0" scale="0.1 0.1 0.1"></a-curvedimage>
 
       <a-sky color="#00a693"></a-sky>
     </a-scene>
