@@ -14,6 +14,7 @@ There are two easy options for obtaining this A-Frame scene. It's then up to you
 After you have __[downloaded and extracted this `.zip` file](https://github.com/aframevr/aframe-boilerplate/archive/master.zip)__ containing the contents of this repo, open the resulting directory, and you'll be have your scene ready in these few steps:
 
     npm install && npm start
+    open http://localhost:3000/
 
 <hr>
 
@@ -23,8 +24,11 @@ Alternatively, you can __[fork this repo](https://github.com/aframevr/aframe-boi
 
 After you have __[forked this repo](https://github.com/aframevr/aframe-boilerplate/fork)__, clone a copy of your fork locally and you'll be have your scene ready in these few steps:
 
-    git clone git@github.com:your_username/aframe-boilerplate.git
-    cd aframe-boilerplate && npm install && npm start
+    git clone https://github.com/aframevr/aframe-boilerplate.git
+    cd aframe-boilerplate && rm -rf .git && npm install && npm start
+    open http://localhost:3000/
+
+> :iphone: **Mobile pro tip:** Upon starting the development server, the URL will be logged to the console. Load that URL from a browser on your mobile device. (If your mobile phone and computer are not on the same LAN, consider using [ngrok](https://ngrok.com/) for local development and testing. [Browsersync](https://www.browsersync.io/) is also worth a gander.)
 
 <hr>
 
