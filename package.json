@@ -17,5 +17,9 @@
     "aframe-example",
     "aframe-scene",
     "aframe-boilerplate"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dliuproduction/aframe-boilerplate.git"
+  }
 }
