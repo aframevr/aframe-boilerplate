@@ -2,7 +2,6 @@
 
 Boilerplate for creating WebVR scenes using A-Frame.
 
-
 ## Getting Started
 
 There are two easy options for obtaining this A-Frame scene. It's then up to you to make it your own!

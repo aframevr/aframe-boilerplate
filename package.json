@@ -1,7 +1,7 @@
 {
   "name": "aframe-boilerplate",
-  "description": "Boilerplate for creating WebVR scenes using A-Frame",
-  "version": "0.0.0",
+  "description": "Boilerplate with A-Frame's 'Hello, World!' of WebVR.",
+  "version": "0.3.0-beta1",
   "license": "MIT",
   "scripts": {
     "start": "budo --live --verbose --port 3000 --open",
