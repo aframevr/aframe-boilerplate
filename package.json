@@ -12,6 +12,9 @@
     "budo": "^7.0.0",
     "ghpages": "0.0.3"
   },
+  "dependencies": {
+    "aframe": "^0.4.1"
+  },
   "keywords": [
     "aframe",
     "aframe-example",
