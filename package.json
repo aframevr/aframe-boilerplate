@@ -9,6 +9,7 @@
     "ghpages": "ghpages"
   },
   "devDependencies": {
+    "aframe-particle-system-component": "^1.0.10",
     "budo": "^7.0.0",
     "ghpages": "0.0.3"
   },
