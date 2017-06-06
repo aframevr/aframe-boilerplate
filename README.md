@@ -42,7 +42,7 @@ Or, you can simply __[fork this CodePen example](http://codepen.io/team/mozvr/pe
 
 ## Publishing your scene
 
-If you don't already know, GitHub offers free and awesome publishing of static sites through __[https://pages.github.com/](GitHub Pages)__.
+If you don't already know, GitHub offers free and awesome publishing of static sites through __[GitHub Pages](https://pages.github.com/)__.
 
 To publish your scene to your personal GitHub Pages:
 
