@@ -25,10 +25,10 @@ After you have __[downloaded and extracted this `.zip` file](https://github.com/
 
 Alternatively, you can __[fork this repo](https://github.com/aframevr/aframe-boilerplate/fork)__ to get started, if you'd like to maintain a Git workflow.
 
-After you have __[forked this repo](https://github.com/aframevr/aframe-boilerplate/fork)__, clone a copy of your fork locally and you'll be have your scene ready in these few steps:
+After you have __[forked this repo](https://github.com/aframevr/aframe-boilerplate/fork)__, clone a copy of your fork locally and you'll have your scene ready in these few steps:
 
-    git clone https://github.com/aframevr/aframe-boilerplate.git
-    cd aframe-boilerplate && rm -rf .git && npm install && npm start
+    git clone https://github.com/your-username/aframe-boilerplate.git your-scene-name
+    cd your-scene-name && rm -rf .git && npm install && npm start
     open http://localhost:3000/
 
 > :iphone: **Mobile pro tip:** Upon starting the development server, the URL will be logged to the console. Load that URL from a browser on your mobile device. (If your mobile phone and computer are not on the same LAN, consider using [ngrok](https://ngrok.com/) for local development and testing. [Browsersync](https://www.browsersync.io/) is also worth a gander.)
