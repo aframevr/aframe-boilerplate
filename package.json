@@ -20,5 +20,8 @@
     "aframe-scene",
     "webvr",
     "vr"
-  ]
+  ],
+  "dependencies": {
+    "axios": "^0.16.2"
+  }
 }
