@@ -5,6 +5,7 @@
   "license": "MIT",
   "scripts": {
     "start": "budo --live --verbose --port 3000 --open",
+    "start-games": "budo --dir games --wg **/*.{html,css,js} --live --verbose --port 3000 --open",
     "deploy": "ghpages",
     "ghpages": "ghpages"
   },

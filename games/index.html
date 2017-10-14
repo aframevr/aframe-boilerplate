@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Hello, World! - A-Frame</title>
+    <meta name="description" content="Hello, World! - A-Frame">
+    <script src="https://aframe.io/releases/0.5.0/aframe.min.js"></script>
+    <script src="https://cdn.rawgit.com/donmccurdy/aframe-extras/v3.12.3/dist/aframe-extras.js"></script>
+    <script src="game.js"></script>
+  </head>
+  <body>
+    <a-scene physics>
+      <a-camera position="0 0 5">
+        <a-cursor></a-cursor>
+      </a-camera>
+      <a-entity gearvr-controls></a-entity>
+      <a-entity static-body ball position="0 5 -1" radius="1.25" geometry="primitive: sphere" material="color: blue"></a-entity>
+      <a-plane static-body position="0 0 -4" rotation="-90 0 0" width="10" height="10" color="#7BC8A4"></a-plane>
+    </a-scene>
+  </body>
+</html>
