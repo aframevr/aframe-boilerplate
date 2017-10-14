@@ -1,5 +1,11 @@
 # A-Frame Boilerplate
 
+## Download vids
+```sh
+chmod u+x smapi/downloadmp4.sh ## one-time step
+sh smapi/downloadvids.sh
+```
+
 Boilerplate for creating WebVR scenes with [A-Frame](https://aframe.io).
 
 Alternatively, check out the [A-Frame Starter on

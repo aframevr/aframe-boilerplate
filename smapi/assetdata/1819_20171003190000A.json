@@ -1,0 +1,963 @@
+{
+  "title": "Closing Bell: 20171003",
+  "subtitle": "http://54.226.255.57/media/control1_cnbc/1819_20171003190000A",
+  "startDateUtc": 1507042800000,
+  "description": "Closing Bell: 20171003",
+  "genres": [],
+  "duration": "3600000",
+  "isoDuration": "PT3600.0000",
+  "externalIds": {
+    "externalIdKey1": "20171003_46CBB7_FIN",
+    "externalIdKey2": "20171003_CD0BCF_FIN",
+    "externalIdKey3": "20171003_WFC_9AD5_FIN",
+    "externalIdKey4": "20171003_CLOS_1A993BBB9B",
+    "externalIdKey5": "20171003_CLOS_197A7B5D3D",
+    "externalIdKey6": "WARREN-BUFFETT_DAEA_FIN",
+    "externalIdKey7": "20171003_CLOS_A138408F44",
+    "externalIdKey8": "20171003_CLOS_3609D8F7C4",
+    "externalIdKey9": "20171003_INTC_8849_FIN",
+    "externalIdKey10": "20171003_AXP_D66D_FIN",
+    "externalIdKey11": "20171003_CLOS_B6DF8CDA6D",
+    "externalIdKey12": "20171003_CLOS_5DBB9A4670",
+    "externalIdKey13": "20171003_ROKU_B668_FIN",
+    "externalIdKey14": "JANE-WELLS_8D4A_FIN",
+    "externalIdKey15": "20171003_AGN_3E45_FIN",
+    "externalIdKey16": "20171003_TSLA_C632_FIN",
+    "externalIdKey17": "20171003_F_024C_FIN"
+  },
+  "frameRate": "29.97",
+  "totalFrames": "104400",
+  "events": {
+    "keyterms": [
+      {
+        "in": 12500,
+        "out": 12500,
+        "index": 0.961843,
+        "text": "INVESTMENT STRATEGY"
+      },
+      {
+        "in": 12930,
+        "out": 12930,
+        "index": 0.927272,
+        "text": "GROWTH STRATEGY"
+      },
+      {
+        "in": 13370,
+        "out": 13370,
+        "index": 0.926993,
+        "text": "P G"
+      },
+      {
+        "in": 13370,
+        "out": 13370,
+        "index": 0.905551,
+        "text": "L G"
+      },
+      {
+        "in": 13370,
+        "out": 13370,
+        "index": 0.903742,
+        "text": "T J"
+      },
+      {
+        "in": 13400,
+        "out": 13400,
+        "index": 0.910637,
+        "text": "M G"
+      },
+      {
+        "in": 36570,
+        "out": 36570,
+        "index": 0.906548,
+        "text": "DAY TODAY"
+      },
+      {
+        "in": 40390,
+        "out": 40390,
+        "index": 0.961939,
+        "text": "WALL MART"
+      },
+      {
+        "in": 40390,
+        "out": 40390,
+        "index": 0.961939,
+        "text": "WAL MART"
+      },
+      {
+        "in": 43340,
+        "out": 43340,
+        "index": 0.922462,
+        "text": "AMAZON"
+      },
+      {
+        "in": 45090,
+        "out": 45090,
+        "index": 0.911548,
+        "text": "WANT PEOPLE"
+      },
+      {
+        "in": 52910,
+        "out": 52910,
+        "index": 0.910728,
+        "text": "TOP STORIES"
+      },
+      {
+        "in": 52910,
+        "out": 52910,
+        "index": 0.945249,
+        "text": "TOP STORY"
+      },
+      {
+        "in": 56950,
+        "out": 56950,
+        "index": 0.914653,
+        "text": "BIG MEETING"
+      },
+      {
+        "in": 60670,
+        "out": 60670,
+        "index": 0.908272,
+        "text": "WILFRED FROST"
+      },
+      {
+        "in": 98460,
+        "out": 98460,
+        "index": 0.908817,
+        "text": "RICK PERRY"
+      },
+      {
+        "in": 151280,
+        "out": 151280,
+        "index": 0.90528,
+        "text": "FED EX"
+      },
+      {
+        "in": 173190,
+        "out": 173190,
+        "index": 0.911184,
+        "text": "C.E.O."
+      },
+      {
+        "in": 183130,
+        "out": 183130,
+        "index": 0.972872,
+        "text": "BIG QUESTIONS"
+      },
+      {
+        "in": 230630,
+        "out": 230630,
+        "index": 0.996306,
+        "text": "CREDIT CARD DEBT"
+      },
+      {
+        "in": 240550,
+        "out": 240550,
+        "index": 0.918411,
+        "text": "CREDIT CARD DEBT"
+      },
+      {
+        "in": 330320,
+        "out": 330320,
+        "index": 0.911093,
+        "text": "TIM SLOAN"
+      },
+      {
+        "in": 337680,
+        "out": 337680,
+        "index": 0.905642,
+        "text": "CHIEF OPERATING"
+      },
+      {
+        "in": 343220,
+        "out": 343220,
+        "index": 0.904194,
+        "text": "D.C."
+      },
+      {
+        "in": 467110,
+        "out": 467110,
+        "index": 0.924124,
+        "text": "HIGH YIELD MARKET"
+      },
+      {
+        "in": 544710,
+        "out": 544710,
+        "index": 0.911548,
+        "text": "BIG REASON"
+      },
+      {
+        "in": 544710,
+        "out": 544710,
+        "index": 0.906911,
+        "text": "GOOD REASON"
+      },
+      {
+        "in": 550830,
+        "out": 550830,
+        "index": 0.901485,
+        "text": "TIM SLOAN"
+      },
+      {
+        "in": 570340,
+        "out": 570340,
+        "index": 0.926993,
+        "text": "RISK MANAGEMENT"
+      },
+      {
+        "in": 574660,
+        "out": 574660,
+        "index": 0.902838,
+        "text": "BIG IMPACT"
+      },
+      {
+        "in": 594620,
+        "out": 594620,
+        "index": 0.921448,
+        "text": "JIM COMEY"
+      },
+      {
+        "in": 632200,
+        "out": 632200,
+        "index": 0.900854,
+        "text": "SMALLER COMPANIES"
+      },
+      {
+        "in": 635080,
+        "out": 635080,
+        "index": 0.916393,
+        "text": "NASDAQ"
+      },
+      {
+        "in": 841510,
+        "out": 841510,
+        "index": 0.927086,
+        "text": "BOND MARKET"
+      },
+      {
+        "in": 860720,
+        "out": 860720,
+        "index": 0.921171,
+        "text": "HIGHER OIL PRICES"
+      },
+      {
+        "in": 863790,
+        "out": 863790,
+        "index": 0.902838,
+        "text": "BIG INCREASE"
+      },
+      {
+        "in": 866650,
+        "out": 866650,
+        "index": 0.906185,
+        "text": "YEAR LAST YEAR"
+      },
+      {
+        "in": 866940,
+        "out": 866940,
+        "index": 0.901936,
+        "text": "LAST YEAR"
+      },
+      {
+        "in": 934970,
+        "out": 934970,
+        "index": 0.923108,
+        "text": "RAISES RATES"
+      },
+      {
+        "in": 934970,
+        "out": 934970,
+        "index": 0.975502,
+        "text": "RAISED RATES"
+      },
+      {
+        "in": 940110,
+        "out": 940110,
+        "index": 0.902206,
+        "text": "DOW"
+      },
+      {
+        "in": 949930,
+        "out": 949930,
+        "index": 0.909181,
+        "text": "GET SOMETHING DONE"
+      },
+      {
+        "in": 991240,
+        "out": 991240,
+        "index": 0.902116,
+        "text": "BIG TECH"
+      },
+      {
+        "in": 1021400,
+        "out": 1021400,
+        "index": 0.943644,
+        "text": "SELLING PRESSURE"
+      },
+      {
+        "in": 1039930,
+        "out": 1039930,
+        "index": 0.907364,
+        "text": "CAPITAL GAINS"
+      },
+      {
+        "in": 1048710,
+        "out": 1048710,
+        "index": 0.973845,
+        "text": "HUGE IMPACT"
+      },
+      {
+        "in": 1052050,
+        "out": 1052050,
+        "index": 0.909363,
+        "text": "AD DOLLARS"
+      },
+      {
+        "in": 1063590,
+        "out": 1063590,
+        "index": 0.916301,
+        "text": "BIG IMPACT"
+      },
+      {
+        "in": 1070660,
+        "out": 1070660,
+        "index": 0.907909,
+        "text": "CUT TAXES"
+      },
+      {
+        "in": 1076940,
+        "out": 1076940,
+        "index": 0.915843,
+        "text": "BECKY QUICK"
+      },
+      {
+        "in": 1095330,
+        "out": 1095330,
+        "index": 0.916393,
+        "text": "P.V.H."
+      },
+      {
+        "in": 1108120,
+        "out": 1108120,
+        "index": 0.967148,
+        "text": "FOURTH QUARTER"
+      },
+      {
+        "in": 1132230,
+        "out": 1132230,
+        "index": 0.951795,
+        "text": "HIGHER OIL PRICES"
+      },
+      {
+        "in": 1132490,
+        "out": 1132490,
+        "index": 0.901034,
+        "text": "OIL PRICES"
+      },
+      {
+        "in": 1181110,
+        "out": 1181110,
+        "index": 0.908363,
+        "text": "TAX REFORM BILL"
+      },
+      {
+        "in": 1187330,
+        "out": 1187330,
+        "index": 0.916118,
+        "text": "BIG MOVES"
+      },
+      {
+        "in": 1187330,
+        "out": 1187330,
+        "index": 0.909272,
+        "text": "BIG MOVERS"
+      },
+      {
+        "in": 1318960,
+        "out": 1318960,
+        "index": 0.964443,
+        "text": "BIG NUMBERS"
+      },
+      {
+        "in": 1346830,
+        "out": 1346830,
+        "index": 0.902116,
+        "text": "COUPLE TIMES"
+      },
+      {
+        "in": 1392280,
+        "out": 1392280,
+        "index": 0.915935,
+        "text": "PAUL RYAN"
+      },
+      {
+        "in": 1615900,
+        "out": 1615900,
+        "index": 0.9427,
+        "text": "URBAN OUTFITTERS"
+      },
+      {
+        "in": 1626750,
+        "out": 1626750,
+        "index": 0.943549,
+        "text": "URBAN OUTFITTERS"
+      },
+      {
+        "in": 1633230,
+        "out": 1633230,
+        "index": 0.947426,
+        "text": "LAST MONTH"
+      },
+      {
+        "in": 1633230,
+        "out": 1633230,
+        "index": 0.927086,
+        "text": "LAST MILE"
+      },
+      {
+        "in": 1655230,
+        "out": 1655230,
+        "index": 0.947237,
+        "text": "LAST WEEK"
+      },
+      {
+        "in": 1678220,
+        "out": 1678220,
+        "index": 0.908817,
+        "text": "N R"
+      },
+      {
+        "in": 1679630,
+        "out": 1679630,
+        "index": 0.91,
+        "text": "LAST MILE"
+      },
+      {
+        "in": 1682300,
+        "out": 1682300,
+        "index": 0.911548,
+        "text": "NEW YORK CITY"
+      },
+      {
+        "in": 1716780,
+        "out": 1716780,
+        "index": 0.970733,
+        "text": "WHOLE LIFE"
+      },
+      {
+        "in": 1717290,
+        "out": 1717290,
+        "index": 0.900043,
+        "text": "E.T.F."
+      },
+      {
+        "in": 1729920,
+        "out": 1729920,
+        "index": 0.911093,
+        "text": "APPLE"
+      },
+      {
+        "in": 1770710,
+        "out": 1770710,
+        "index": 0.909181,
+        "text": "NEW YEAR"
+      },
+      {
+        "in": 1783090,
+        "out": 1783090,
+        "index": 0.902026,
+        "text": "BIG GUYS"
+      },
+      {
+        "in": 1789250,
+        "out": 1789250,
+        "index": 0.904194,
+        "text": "PUERTO RICO"
+      },
+      {
+        "in": 1850980,
+        "out": 1850980,
+        "index": 0.903561,
+        "text": "LAST DAY"
+      },
+      {
+        "in": 1850980,
+        "out": 1850980,
+        "index": 0.930709,
+        "text": "LAST YEAR"
+      },
+      {
+        "in": 1916970,
+        "out": 1916970,
+        "index": 0.917769,
+        "text": "SOMETHING NEW"
+      },
+      {
+        "in": 1916970,
+        "out": 1916970,
+        "index": 0.936592,
+        "text": "SOMETHING GOOD"
+      },
+      {
+        "in": 1916970,
+        "out": 1916970,
+        "index": 0.992924,
+        "text": "SOMETHING BIG"
+      },
+      {
+        "in": 1927990,
+        "out": 1927990,
+        "index": 0.935188,
+        "text": "LITTLE TIME"
+      },
+      {
+        "in": 1928090,
+        "out": 1928090,
+        "index": 0.931268,
+        "text": "WHOLE TIME"
+      },
+      {
+        "in": 1965960,
+        "out": 1965960,
+        "index": 0.90329,
+        "text": "LITTLE TIME"
+      },
+      {
+        "in": 1988890,
+        "out": 1988890,
+        "index": 0.938655,
+        "text": "AUTO MAKERS"
+      },
+      {
+        "in": 2275830,
+        "out": 2275830,
+        "index": 0.911457,
+        "text": "HOME RUN"
+      },
+      {
+        "in": 2289260,
+        "out": 2289260,
+        "index": 0.900043,
+        "text": "CARE REFORM"
+      },
+      {
+        "in": 2292600,
+        "out": 2292600,
+        "index": 0.902026,
+        "text": "MANY OTHERS"
+      },
+      {
+        "in": 2295610,
+        "out": 2295610,
+        "index": 0.905732,
+        "text": "VIDEO GAME"
+      },
+      {
+        "in": 2295730,
+        "out": 2295730,
+        "index": 0.900674,
+        "text": "C.E.O."
+      },
+      {
+        "in": 2300140,
+        "out": 2300140,
+        "index": 0.900674,
+        "text": "WAR II"
+      },
+      {
+        "in": 2384320,
+        "out": 2384320,
+        "index": 0.973066,
+        "text": "BIG CONCERN"
+      },
+      {
+        "in": 2389600,
+        "out": 2389600,
+        "index": 0.918687,
+        "text": "U.S. ECONOMY"
+      },
+      {
+        "in": 2592450,
+        "out": 2592450,
+        "index": 0.921355,
+        "text": "LAST MONTH"
+      },
+      {
+        "in": 2607680,
+        "out": 2607680,
+        "index": 0.941946,
+        "text": "WALL STREET"
+      },
+      {
+        "in": 2623420,
+        "out": 2623420,
+        "index": 0.996506,
+        "text": "LAST SUMMER"
+      },
+      {
+        "in": 2669770,
+        "out": 2669770,
+        "index": 0.900043,
+        "text": "BIGGER QUESTION"
+      },
+      {
+        "in": 2669870,
+        "out": 2669870,
+        "index": 0.910091,
+        "text": "REAL QUESTION"
+      },
+      {
+        "in": 2669890,
+        "out": 2669890,
+        "index": 0.918687,
+        "text": "KEY QUESTION"
+      },
+      {
+        "in": 2684960,
+        "out": 2684960,
+        "index": 0.915568,
+        "text": "NEW YEAR"
+      },
+      {
+        "in": 2744470,
+        "out": 2744470,
+        "index": 0.908363,
+        "text": "LAST MONTH"
+      },
+      {
+        "in": 2784540,
+        "out": 2784540,
+        "index": 0.924124,
+        "text": "DONE DEAL"
+      },
+      {
+        "in": 3070720,
+        "out": 3070720,
+        "index": 0.912917,
+        "text": "K K"
+      },
+      {
+        "in": 3070730,
+        "out": 3070730,
+        "index": 0.91786,
+        "text": "WAY WAY"
+      },
+      {
+        "in": 3071190,
+        "out": 3071190,
+        "index": 0.909818,
+        "text": "NET NET"
+      },
+      {
+        "in": 3071190,
+        "out": 3071190,
+        "index": 0.901575,
+        "text": "NET WORTH"
+      },
+      {
+        "in": 3071200,
+        "out": 3071200,
+        "index": 0.907001,
+        "text": "JACK WELCH"
+      },
+      {
+        "in": 3118340,
+        "out": 3118340,
+        "index": 0.918411,
+        "text": "LAST WEEK"
+      },
+      {
+        "in": 3125820,
+        "out": 3125820,
+        "index": 0.913465,
+        "text": "HELP PEOPLE"
+      },
+      {
+        "in": 3145420,
+        "out": 3145420,
+        "index": 0.900404,
+        "text": "THING PEOPLE"
+      },
+      {
+        "in": 3181040,
+        "out": 3181040,
+        "index": 0.907546,
+        "text": "HOUR TODAY"
+      },
+      {
+        "in": 3304990,
+        "out": 3304990,
+        "index": 0.916026,
+        "text": "L G"
+      },
+      {
+        "in": 3326200,
+        "out": 3326200,
+        "index": 0.912278,
+        "text": "STOCK HIGHER"
+      },
+      {
+        "in": 3509530,
+        "out": 3509530,
+        "index": 0.956471,
+        "text": "DOW"
+      }
+    ],
+    "namedEntities": [
+      {
+        "in": 900000,
+        "out": 925530,
+        "index": 1,
+        "text": "WARREN BUFFETT"
+      },
+      {
+        "in": 2190990,
+        "out": 2243610,
+        "index": 1,
+        "text": "JANE WELLS"
+      },
+      {
+        "in": 2190990,
+        "out": 2243610,
+        "index": 1,
+        "text": "JANE WELLS"
+      },
+      {
+        "in": 2335470,
+        "out": 2351750,
+        "index": 1,
+        "text": "JANE WELLS"
+      },
+      {
+        "in": 2335470,
+        "out": 2351750,
+        "index": 1,
+        "text": "JANE WELLS"
+      }
+    ],
+    "programSegments": [
+      {
+        "in": 179000,
+        "out": 283000,
+        "index": 1,
+        "type": "VIDRO",
+        "entities": [],
+        "terms": [
+          "WELLS FARGO ON THE HOT SEAT",
+          "20171003_46CBB7_FIN"
+        ]
+      },
+      {
+        "in": 200000,
+        "out": 247000,
+        "index": 1,
+        "type": "VIDRO",
+        "entities": [],
+        "terms": [
+          "WELLS FARGO CEO SLOAN GRILLED BY SENATE LAWMAKERS",
+          "20171003_CD0BCF_FIN"
+        ]
+      },
+      {
+        "in": 348000,
+        "out": 488000,
+        "index": 1,
+        "type": "SYMV",
+        "entities": [
+          {
+            "confidence": 1,
+            "name": "WELLS FARGO & COMPANY",
+            "symbol": "WFC"
+          }
+        ],
+        "terms": [
+          "WELLS FARGO & COMPANY",
+          "20171003_WFC_9AD5_FIN"
+        ]
+      },
+      {
+        "in": 537000,
+        "out": 546000,
+        "index": 1,
+        "type": "MLABS",
+        "entities": [],
+        "terms": [
+          "20171003_CLOS_1A993BBB9B"
+        ]
+      },
+      {
+        "in": 656000,
+        "out": 666000,
+        "index": 1,
+        "type": "MLABS",
+        "entities": [],
+        "terms": [
+          "20171003_CLOS_197A7B5D3D"
+        ]
+      },
+      {
+        "in": 900000,
+        "out": 925000,
+        "index": 1,
+        "type": "VPER",
+        "entities": [],
+        "terms": [
+          "WARREN BUFFETT",
+          "WARREN-BUFFETT_DAEA_FIN"
+        ]
+      },
+      {
+        "in": 1017000,
+        "out": 1022000,
+        "index": 1,
+        "type": "MLABS",
+        "entities": [],
+        "terms": [
+          "20171003_CLOS_A138408F44"
+        ]
+      },
+      {
+        "in": 1068000,
+        "out": 1075000,
+        "index": 1,
+        "type": "MLABS",
+        "entities": [],
+        "terms": [
+          "20171003_CLOS_3609D8F7C4"
+        ]
+      },
+      {
+        "in": 1223000,
+        "out": 1228000,
+        "index": 1,
+        "type": "SYMV",
+        "entities": [
+          {
+            "confidence": 1,
+            "name": "INTEL CORPORATION",
+            "symbol": "INTC"
+          }
+        ],
+        "terms": [
+          "INTEL CORPORATION",
+          "20171003_INTC_8849_FIN"
+        ]
+      },
+      {
+        "in": 1223000,
+        "out": 1228000,
+        "index": 1,
+        "type": "SYMV",
+        "entities": [
+          {
+            "confidence": 1,
+            "name": "AMERICAN EXPRESS COMPANY",
+            "symbol": "AXP"
+          }
+        ],
+        "terms": [
+          "AMERICAN EXPRESS COMPANY",
+          "20171003_AXP_D66D_FIN"
+        ]
+      },
+      {
+        "in": 1266000,
+        "out": 1268000,
+        "index": 1,
+        "type": "MLABS",
+        "entities": [],
+        "terms": [
+          "20171003_CLOS_B6DF8CDA6D"
+        ]
+      },
+      {
+        "in": 1346000,
+        "out": 1349000,
+        "index": 1,
+        "type": "MLABS",
+        "entities": [],
+        "terms": [
+          "20171003_CLOS_5DBB9A4670"
+        ]
+      },
+      {
+        "in": 1625000,
+        "out": 1671000,
+        "index": 1,
+        "type": "SYMV",
+        "entities": [
+          {
+            "confidence": 1,
+            "name": "ROKU, INC.",
+            "symbol": "ROKU"
+          }
+        ],
+        "terms": [
+          "ROKU  INC.",
+          "20171003_ROKU_B668_FIN"
+        ]
+      },
+      {
+        "in": 2190000,
+        "out": 2351000,
+        "index": 1,
+        "type": "VPER",
+        "entities": [],
+        "terms": [
+          "JANE WELLS",
+          "JANE-WELLS_8D4A_FIN"
+        ]
+      },
+      {
+        "in": 2839000,
+        "out": 2857000,
+        "index": 1,
+        "type": "SYMV",
+        "entities": [
+          {
+            "confidence": 1,
+            "name": "ALLERGAN PLC",
+            "symbol": "AGN"
+          }
+        ],
+        "terms": [
+          "ALLERGAN PLC",
+          "20171003_AGN_3E45_FIN"
+        ]
+      },
+      {
+        "in": 3156000,
+        "out": 3182000,
+        "index": 1,
+        "type": "SYMV",
+        "entities": [
+          {
+            "confidence": 1,
+            "name": "TESLA, INC.",
+            "symbol": "TSLA"
+          }
+        ],
+        "terms": [
+          "TESLA  INC.",
+          "20171003_TSLA_C632_FIN"
+        ]
+      },
+      {
+        "in": 3156000,
+        "out": 3182000,
+        "index": 1,
+        "type": "SYMV",
+        "entities": [
+          {
+            "confidence": 1,
+            "name": "FORD MOTOR COMPANY",
+            "symbol": "F"
+          }
+        ],
+        "terms": [
+          "FORD MOTOR COMPANY",
+          "20171003_F_024C_FIN"
+        ]
+      }
+    ]
+  }
+}

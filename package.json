@@ -5,6 +5,7 @@
   "license": "MIT",
   "scripts": {
     "start": "budo --live --verbose --port 3000 --open",
+    "import": "node smapi/ingest",
     "deploy": "ghpages",
     "ghpages": "ghpages"
   },
@@ -19,5 +20,8 @@
     "aframe-scene",
     "webvr",
     "vr"
-  ]
+  ],
+  "dependencies": {
+    "axios": "^0.16.2"
+  }
 }

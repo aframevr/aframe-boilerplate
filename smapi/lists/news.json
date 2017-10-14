@@ -1,0 +1,1854 @@
+{
+  "spdata": [
+    {
+      "id": "1034_20171012210000",
+      "duration": "3540",
+      "ts": "2017-10-14 01:59:54.0",
+      "source": "hdhr-cnbc",
+      "description": "The Rachel Maddow Show: 20171013",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171013220000",
+      "duration": "3540",
+      "ts": "2017-10-13 22:59:10.0",
+      "source": "con-cnbc",
+      "description": "Mad Money: 20171013",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_20171013170000",
+      "duration": "3540",
+      "ts": "2017-10-13 21:59:27.0",
+      "source": "hdhr-cnbc",
+      "description": "MTP Daily: 20171013",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171013210000",
+      "duration": "3540",
+      "ts": "2017-10-13 21:59:08.0",
+      "source": "con-cnbc",
+      "description": "Fast Money: 20171013",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_20171013160000",
+      "duration": "3540",
+      "ts": "2017-10-13 21:00:12.0",
+      "source": "hdhr-cnbc",
+      "description": "MSNBC Live With Steve Komachi: 20171013",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171013190000B",
+      "duration": "3540",
+      "ts": "2017-10-13 20:59:06.0",
+      "source": "con-cnbc",
+      "description": "",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_20171013150000",
+      "duration": "3540",
+      "ts": "2017-10-13 19:59:55.0",
+      "source": "hdhr-cnbc",
+      "description": "MSNBC Live With Kate Snow: 20171013",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171013190000A",
+      "duration": "3540",
+      "ts": "2017-10-13 19:59:05.0",
+      "source": "con-cnbc",
+      "description": "",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_20171013140000",
+      "duration": "3540",
+      "ts": "2017-10-13 18:59:31.0",
+      "source": "hdhr-cnbc",
+      "description": "MSNBC Live: 20171013",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171013170000B",
+      "duration": "3540",
+      "ts": "2017-10-13 18:59:02.0",
+      "source": "con-cnbc",
+      "description": "Power Lunch: 20171013",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_20171013130000",
+      "duration": "3540",
+      "ts": "2017-10-13 18:00:08.0",
+      "source": "hdhr-cnbc",
+      "description": "MSNBC Live with Craig Melvin: 20171013",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171013170000A",
+      "duration": "3540",
+      "ts": "2017-10-13 17:59:01.0",
+      "source": "con-cnbc",
+      "description": "Power Lunch: 20171013",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_20171013120000",
+      "duration": "3540",
+      "ts": "2017-10-13 16:59:47.0",
+      "source": "hdhr-cnbc",
+      "description": "Andrea Mitchell Reports: 20171013",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171013160000",
+      "duration": "3540",
+      "ts": "2017-10-13 16:59:10.0",
+      "source": "con-cnbc",
+      "description": "Fast Money Halftime Report: 20171013",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_20171013110000",
+      "duration": "3540",
+      "ts": "2017-10-13 15:59:30.0",
+      "source": "hdhr-cnbc",
+      "description": "MSNBC LIVE: 20171013",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171013150000",
+      "duration": "3540",
+      "ts": "2017-10-13 15:59:08.0",
+      "source": "con-cnbc",
+      "description": "Squawk Alley: 20171013",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_20171013100000",
+      "duration": "3540",
+      "ts": "2017-10-13 15:00:08.0",
+      "source": "hdhr-cnbc",
+      "description": "MSNBC Live With Hallie Jackson: 20171013",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171013130000B",
+      "duration": "3540",
+      "ts": "2017-10-13 14:59:06.0",
+      "source": "con-cnbc",
+      "description": "Squawk on the Street: 20171013",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_2017101390000",
+      "duration": "3540",
+      "ts": "2017-10-13 13:59:44.0",
+      "source": "hdhr-cnbc",
+      "description": "MSNBC Live With Stephanie Ruhle: 20171013",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171013130000A",
+      "duration": "3540",
+      "ts": "2017-10-13 13:59:05.0",
+      "source": "con-cnbc",
+      "description": "Squawk on the Street: 20171013",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_2017101360000C",
+      "duration": "3540",
+      "ts": "2017-10-13 12:59:24.0",
+      "source": "hdhr-cnbc",
+      "description": "Morning Joe: 20171013",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171013100000C",
+      "duration": "3540",
+      "ts": "2017-10-13 12:59:03.0",
+      "source": "con-cnbc",
+      "description": "Squawk Box: 20171013",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171013100000B",
+      "duration": "3540",
+      "ts": "2017-10-13 11:59:03.0",
+      "source": "con-cnbc",
+      "description": "Squawk Box: 20171013",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171013100000A",
+      "duration": "3540",
+      "ts": "2017-10-13 10:59:03.0",
+      "source": "con-cnbc",
+      "description": "Squawk Box: 20171013",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_20171011210000",
+      "duration": "3540",
+      "ts": "2017-10-13 01:59:43.0",
+      "source": "hdhr-cnbc",
+      "description": "The Rachel Maddow Show: 20171012",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171012220000",
+      "duration": "3540",
+      "ts": "2017-10-12 22:59:04.0",
+      "source": "con-cnbc",
+      "description": "Mad Money: 20171012",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_20171012170000",
+      "duration": "3540",
+      "ts": "2017-10-12 22:00:22.0",
+      "source": "hdhr-cnbc",
+      "description": "MTP Daily: 20171012",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171012210000",
+      "duration": "3540",
+      "ts": "2017-10-12 21:59:03.0",
+      "source": "con-cnbc",
+      "description": "Fast Money: 20171012",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_20171012160000",
+      "duration": "3540",
+      "ts": "2017-10-12 21:00:01.0",
+      "source": "hdhr-cnbc",
+      "description": "MSNBC Live With Steve Komachi: 20171012",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171012190000B",
+      "duration": "3540",
+      "ts": "2017-10-12 20:59:01.0",
+      "source": "con-cnbc",
+      "description": "",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_20171012150000",
+      "duration": "3540",
+      "ts": "2017-10-12 19:59:40.0",
+      "source": "hdhr-cnbc",
+      "description": "MSNBC Live With Kate Snow: 20171012",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171012190000A",
+      "duration": "3540",
+      "ts": "2017-10-12 19:59:09.0",
+      "source": "con-cnbc",
+      "description": "",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_20171012140000",
+      "duration": "3540",
+      "ts": "2017-10-12 19:00:16.0",
+      "source": "hdhr-cnbc",
+      "description": "MSNBC Live: 20171012",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171012170000B",
+      "duration": "3540",
+      "ts": "2017-10-12 18:59:07.0",
+      "source": "con-cnbc",
+      "description": "Power Lunch: 20171012",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_20171012130000",
+      "duration": "3540",
+      "ts": "2017-10-12 17:59:53.0",
+      "source": "hdhr-cnbc",
+      "description": "MSNBC Live with Craig Melvin: 20171012",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171012170000A",
+      "duration": "3540",
+      "ts": "2017-10-12 17:59:05.0",
+      "source": "con-cnbc",
+      "description": "Power Lunch: 20171012",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_20171012120000",
+      "duration": "3540",
+      "ts": "2017-10-12 16:59:38.0",
+      "source": "hdhr-cnbc",
+      "description": "Andrea Mitchell Reports: 20171012",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171012160000",
+      "duration": "3540",
+      "ts": "2017-10-12 16:59:04.0",
+      "source": "con-cnbc",
+      "description": "Fast Money Halftime Report: 20171012",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_20171012110000",
+      "duration": "3540",
+      "ts": "2017-10-12 16:00:14.0",
+      "source": "hdhr-cnbc",
+      "description": "MSNBC LIVE: 20171012",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171012150000",
+      "duration": "3540",
+      "ts": "2017-10-12 15:59:02.0",
+      "source": "con-cnbc",
+      "description": "Squawk Alley: 20171012",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_20171012100000",
+      "duration": "3540",
+      "ts": "2017-10-12 14:59:57.0",
+      "source": "hdhr-cnbc",
+      "description": "MSNBC Live With Hallie Jackson: 20171012",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171012130000B",
+      "duration": "3540",
+      "ts": "2017-10-12 14:59:01.0",
+      "source": "con-cnbc",
+      "description": "Squawk on the Street: 20171012",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_2017101290000",
+      "duration": "3540",
+      "ts": "2017-10-12 13:59:34.0",
+      "source": "hdhr-cnbc",
+      "description": "MSNBC Live With Stephanie Ruhle: 20171012",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171012130000A",
+      "duration": "3540",
+      "ts": "2017-10-12 13:59:00.0",
+      "source": "con-cnbc",
+      "description": "Squawk on the Street: 20171012",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_2017101260000C",
+      "duration": "3540",
+      "ts": "2017-10-12 13:00:11.0",
+      "source": "hdhr-cnbc",
+      "description": "Morning Joe: 20171012",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171012100000C",
+      "duration": "3540",
+      "ts": "2017-10-12 12:59:08.0",
+      "source": "con-cnbc",
+      "description": "Squawk Box: 20171012",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171012100000B",
+      "duration": "3540",
+      "ts": "2017-10-12 11:59:07.0",
+      "source": "con-cnbc",
+      "description": "Squawk Box: 20171012",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171012100000A",
+      "duration": "3540",
+      "ts": "2017-10-12 10:59:07.0",
+      "source": "con-cnbc",
+      "description": "Squawk Box: 20171012",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_20171010210000",
+      "duration": "3540",
+      "ts": "2017-10-12 01:00:39.0",
+      "source": "hdhr-cnbc",
+      "description": "The Rachel Maddow Show: 20171010",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_20171010170000",
+      "duration": "3540",
+      "ts": "2017-10-12 00:46:35.0",
+      "source": "hdhr-cnbc",
+      "description": "MTP Daily: 20171010",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_20171010160000",
+      "duration": "3540",
+      "ts": "2017-10-12 00:39:34.0",
+      "source": "hdhr-cnbc",
+      "description": "MSNBC Live With Steve Komachi: 20171010",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171011220000",
+      "duration": "3540",
+      "ts": "2017-10-11 22:59:09.0",
+      "source": "con-cnbc",
+      "description": "Mad Money: 20171011",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_20171011170000",
+      "duration": "3540",
+      "ts": "2017-10-11 22:00:12.0",
+      "source": "hdhr-cnbc",
+      "description": "MTP Daily: 20171011",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171011210000",
+      "duration": "3540",
+      "ts": "2017-10-11 21:59:07.0",
+      "source": "con-cnbc",
+      "description": "Fast Money: 20171011",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_20171011160000",
+      "duration": "3540",
+      "ts": "2017-10-11 20:59:44.0",
+      "source": "hdhr-cnbc",
+      "description": "MSNBC Live With Steve Komachi: 20171011",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171011190000B",
+      "duration": "3540",
+      "ts": "2017-10-11 20:59:05.0",
+      "source": "con-cnbc",
+      "description": "",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_20171011150000",
+      "duration": "3540",
+      "ts": "2017-10-11 19:59:24.0",
+      "source": "hdhr-cnbc",
+      "description": "MSNBC Live With Kate Snow: 20171011",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171011190000A",
+      "duration": "3540",
+      "ts": "2017-10-11 19:59:04.0",
+      "source": "con-cnbc",
+      "description": "",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_20171011140000",
+      "duration": "3540",
+      "ts": "2017-10-11 19:00:03.0",
+      "source": "hdhr-cnbc",
+      "description": "MSNBC Live: 20171011",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171011170000B",
+      "duration": "3540",
+      "ts": "2017-10-11 18:59:02.0",
+      "source": "con-cnbc",
+      "description": "Power Lunch: 20171011",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_20171011130000",
+      "duration": "3540",
+      "ts": "2017-10-11 17:59:42.0",
+      "source": "hdhr-cnbc",
+      "description": "MSNBC Live with Craig Melvin: 20171011",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171011170000A",
+      "duration": "3540",
+      "ts": "2017-10-11 17:59:01.0",
+      "source": "con-cnbc",
+      "description": "Power Lunch: 20171011",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_20171011120000",
+      "duration": "3540",
+      "ts": "2017-10-11 16:59:26.0",
+      "source": "hdhr-cnbc",
+      "description": "Andrea Mitchell Reports: 20171011",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_20171010150000",
+      "duration": "3540",
+      "ts": "2017-10-11 16:59:19.0",
+      "source": "hdhr-cnbc",
+      "description": "MSNBC Live With Kate Snow: 20171010",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171011160000",
+      "duration": "3540",
+      "ts": "2017-10-11 16:59:00.0",
+      "source": "con-cnbc",
+      "description": "Fast Money Halftime Report: 20171011",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_20171010140000",
+      "duration": "3540",
+      "ts": "2017-10-11 16:34:38.0",
+      "source": "hdhr-cnbc",
+      "description": "MSNBC Live: 20171010",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_20171011110000",
+      "duration": "3540",
+      "ts": "2017-10-11 16:00:06.0",
+      "source": "hdhr-cnbc",
+      "description": "MSNBC LIVE: 20171011",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171011150000",
+      "duration": "3540",
+      "ts": "2017-10-11 15:59:08.0",
+      "source": "con-cnbc",
+      "description": "Squawk Alley: 20171011",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_20171011100000",
+      "duration": "3540",
+      "ts": "2017-10-11 14:59:33.0",
+      "source": "hdhr-cnbc",
+      "description": "MSNBC Live With Hallie Jackson: 20171011",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171011130000B",
+      "duration": "3540",
+      "ts": "2017-10-11 14:59:08.0",
+      "source": "con-cnbc",
+      "description": "Squawk on the Street: 20171011",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_20171010130000",
+      "duration": "3540",
+      "ts": "2017-10-11 14:45:35.0",
+      "source": "hdhr-cnbc",
+      "description": "MSNBC Live with Craig Melvin: 20171010",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_20171010120000",
+      "duration": "3540",
+      "ts": "2017-10-11 14:21:51.0",
+      "source": "hdhr-cnbc",
+      "description": "Andrea Mitchell Reports: 20171010",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_2017101190000",
+      "duration": "3540",
+      "ts": "2017-10-11 13:59:26.0",
+      "source": "hdhr-cnbc",
+      "description": "MSNBC Live With Stephanie Ruhle: 20171011",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171011130000A",
+      "duration": "3540",
+      "ts": "2017-10-11 13:59:06.0",
+      "source": "con-cnbc",
+      "description": "Squawk on the Street: 20171011",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171011100000C",
+      "duration": "3540",
+      "ts": "2017-10-11 12:59:04.0",
+      "source": "con-cnbc",
+      "description": "Squawk Box: 20171011",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171011100000B",
+      "duration": "3540",
+      "ts": "2017-10-11 11:59:02.0",
+      "source": "con-cnbc",
+      "description": "Squawk Box: 20171011",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171011100000A",
+      "duration": "3540",
+      "ts": "2017-10-11 10:59:02.0",
+      "source": "con-cnbc",
+      "description": "Squawk Box: 20171011",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171010220000",
+      "duration": "3540",
+      "ts": "2017-10-10 22:59:04.0",
+      "source": "con-cnbc",
+      "description": "Mad Money: 20171010",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171010210000",
+      "duration": "3540",
+      "ts": "2017-10-10 21:59:02.0",
+      "source": "con-cnbc",
+      "description": "Fast Money: 20171010",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171010190000B",
+      "duration": "3540",
+      "ts": "2017-10-10 20:59:01.0",
+      "source": "con-cnbc",
+      "description": "",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171010190000A",
+      "duration": "3540",
+      "ts": "2017-10-10 19:59:09.0",
+      "source": "con-cnbc",
+      "description": "",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171010170000B",
+      "duration": "3540",
+      "ts": "2017-10-10 18:59:07.0",
+      "source": "con-cnbc",
+      "description": "Power Lunch: 20171010",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171010170000A",
+      "duration": "3540",
+      "ts": "2017-10-10 17:59:06.0",
+      "source": "con-cnbc",
+      "description": "Power Lunch: 20171010",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171010160000",
+      "duration": "3540",
+      "ts": "2017-10-10 16:59:04.0",
+      "source": "con-cnbc",
+      "description": "Fast Money Halftime Report: 20171010",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_20171010110000",
+      "duration": "3540",
+      "ts": "2017-10-10 15:59:59.0",
+      "source": "hdhr-cnbc",
+      "description": "MSNBC LIVE: 20171010",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171010150000",
+      "duration": "3540",
+      "ts": "2017-10-10 15:59:03.0",
+      "source": "con-cnbc",
+      "description": "Squawk Alley: 20171010",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_20171010100000",
+      "duration": "3540",
+      "ts": "2017-10-10 14:59:42.0",
+      "source": "hdhr-cnbc",
+      "description": "MSNBC Live With Hallie Jackson: 20171010",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171010130000B",
+      "duration": "3540",
+      "ts": "2017-10-10 14:59:02.0",
+      "source": "con-cnbc",
+      "description": "Squawk on the Street: 20171010",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_2017101090000",
+      "duration": "3540",
+      "ts": "2017-10-10 14:00:18.0",
+      "source": "hdhr-cnbc",
+      "description": "MSNBC Live With Stephanie Ruhle: 20171010",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171010130000A",
+      "duration": "3540",
+      "ts": "2017-10-10 13:59:00.0",
+      "source": "con-cnbc",
+      "description": "Squawk on the Street: 20171010",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_2017101060000C",
+      "duration": "3540",
+      "ts": "2017-10-10 12:59:58.0",
+      "source": "hdhr-cnbc",
+      "description": "Morning Joe: 20171010",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171010100000C",
+      "duration": "3540",
+      "ts": "2017-10-10 12:59:09.0",
+      "source": "con-cnbc",
+      "description": "Squawk Box: 20171010",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_2017101060000B",
+      "duration": "3540",
+      "ts": "2017-10-10 11:59:41.0",
+      "source": "hdhr-cnbc",
+      "description": "Morning Joe: 20171010",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171010100000B",
+      "duration": "3540",
+      "ts": "2017-10-10 11:59:07.0",
+      "source": "con-cnbc",
+      "description": "Squawk Box: 20171010",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_2017101060000A",
+      "duration": "3540",
+      "ts": "2017-10-10 11:00:18.0",
+      "source": "hdhr-cnbc",
+      "description": "Morning Joe: 20171010",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171010100000A",
+      "duration": "3540",
+      "ts": "2017-10-10 10:59:07.0",
+      "source": "con-cnbc",
+      "description": "Squawk Box: 20171010",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_20171009210000",
+      "duration": "3540",
+      "ts": "2017-10-10 01:59:38.0",
+      "source": "hdhr-cnbc",
+      "description": "The Rachel Maddow Show: 20171009",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171009220000",
+      "duration": "3540",
+      "ts": "2017-10-09 22:59:09.0",
+      "source": "con-cnbc",
+      "description": "Mad Money: 20171009",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_20171009170000",
+      "duration": "3540",
+      "ts": "2017-10-09 21:59:48.0",
+      "source": "hdhr-cnbc",
+      "description": "MTP Daily: 20171009",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171009210000",
+      "duration": "3540",
+      "ts": "2017-10-09 21:59:07.0",
+      "source": "con-cnbc",
+      "description": "Fast Money: 20171009",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_20171009160000",
+      "duration": "3540",
+      "ts": "2017-10-09 21:00:27.0",
+      "source": "hdhr-cnbc",
+      "description": "MSNBC Live With Steve Komachi: 20171009",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171009190000B",
+      "duration": "3540",
+      "ts": "2017-10-09 20:59:06.0",
+      "source": "con-cnbc",
+      "description": "",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_20171009150000",
+      "duration": "3540",
+      "ts": "2017-10-09 20:00:01.0",
+      "source": "hdhr-cnbc",
+      "description": "MSNBC Live With Kate Snow: 20171009",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171009190000A",
+      "duration": "3540",
+      "ts": "2017-10-09 19:59:05.0",
+      "source": "con-cnbc",
+      "description": "",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_20171009140000",
+      "duration": "3540",
+      "ts": "2017-10-09 18:59:42.0",
+      "source": "hdhr-cnbc",
+      "description": "MSNBC Live: 20171009",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171009170000B",
+      "duration": "3540",
+      "ts": "2017-10-09 18:59:03.0",
+      "source": "con-cnbc",
+      "description": "Power Lunch: 20171009",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_20171009130000",
+      "duration": "3540",
+      "ts": "2017-10-09 18:00:26.0",
+      "source": "hdhr-cnbc",
+      "description": "MSNBC Live with Craig Melvin: 20171009",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171009170000A",
+      "duration": "3540",
+      "ts": "2017-10-09 17:59:10.0",
+      "source": "con-cnbc",
+      "description": "Power Lunch: 20171009",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_20171009120000",
+      "duration": "3540",
+      "ts": "2017-10-09 17:00:02.0",
+      "source": "hdhr-cnbc",
+      "description": "Andrea Mitchell Reports: 20171009",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171009160000",
+      "duration": "3540",
+      "ts": "2017-10-09 16:59:09.0",
+      "source": "con-cnbc",
+      "description": "Fast Money Halftime Report: 20171009",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171009150000",
+      "duration": "3540",
+      "ts": "2017-10-09 15:59:07.0",
+      "source": "con-cnbc",
+      "description": "Squawk Alley: 20171009",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171009130000B",
+      "duration": "3540",
+      "ts": "2017-10-09 14:59:05.0",
+      "source": "con-cnbc",
+      "description": "Squawk on the Street: 20171009",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171009130000A",
+      "duration": "3540",
+      "ts": "2017-10-09 13:59:04.0",
+      "source": "con-cnbc",
+      "description": "Squawk on the Street: 20171009",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171009100000C",
+      "duration": "3540",
+      "ts": "2017-10-09 12:59:03.0",
+      "source": "con-cnbc",
+      "description": "Squawk Box: 20171009",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171009100000B",
+      "duration": "3540",
+      "ts": "2017-10-09 11:59:07.0",
+      "source": "con-cnbc",
+      "description": "Squawk Box: 20171009",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171009100000A",
+      "duration": "3540",
+      "ts": "2017-10-09 10:59:07.0",
+      "source": "con-cnbc",
+      "description": "Squawk Box: 20171009",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171006220000",
+      "duration": "3540",
+      "ts": "2017-10-06 22:59:06.0",
+      "source": "con-cnbc",
+      "description": "Mad Money: 20171006",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_20171006170000",
+      "duration": "3540",
+      "ts": "2017-10-06 22:00:20.0",
+      "source": "hdhr-cnbc",
+      "description": "MTP Daily: 20171006",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171006210000",
+      "duration": "3540",
+      "ts": "2017-10-06 21:59:04.0",
+      "source": "con-cnbc",
+      "description": "Fast Money: 20171006",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_20171006160000",
+      "duration": "3540",
+      "ts": "2017-10-06 21:00:04.0",
+      "source": "hdhr-cnbc",
+      "description": "MSNBC Live With Steve Komachi: 20171006",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171006190000B",
+      "duration": "3540",
+      "ts": "2017-10-06 20:59:02.0",
+      "source": "con-cnbc",
+      "description": "",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_20171006150000",
+      "duration": "3540",
+      "ts": "2017-10-06 19:59:41.0",
+      "source": "hdhr-cnbc",
+      "description": "MSNBC Live With Kate Snow: 20171006",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171006190000A",
+      "duration": "3540",
+      "ts": "2017-10-06 19:59:00.0",
+      "source": "con-cnbc",
+      "description": "",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_20171006140000",
+      "duration": "3540",
+      "ts": "2017-10-06 19:00:18.0",
+      "source": "hdhr-cnbc",
+      "description": "MSNBC Live: 20171006",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171006170000B",
+      "duration": "3540",
+      "ts": "2017-10-06 18:59:07.0",
+      "source": "con-cnbc",
+      "description": "Power Lunch: 20171006",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_20171006130000",
+      "duration": "3540",
+      "ts": "2017-10-06 17:59:55.0",
+      "source": "hdhr-cnbc",
+      "description": "MSNBC Live with Craig Melvin: 20171006",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171006170000A",
+      "duration": "3540",
+      "ts": "2017-10-06 17:59:05.0",
+      "source": "con-cnbc",
+      "description": "Power Lunch: 20171006",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_20171006120000",
+      "duration": "3540",
+      "ts": "2017-10-06 16:59:35.0",
+      "source": "hdhr-cnbc",
+      "description": "Andrea Mitchell Reports: 20171006",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171006160000",
+      "duration": "3540",
+      "ts": "2017-10-06 16:59:04.0",
+      "source": "con-cnbc",
+      "description": "Fast Money Halftime Report: 20171006",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_20171006110000",
+      "duration": "3540",
+      "ts": "2017-10-06 16:00:21.0",
+      "source": "hdhr-cnbc",
+      "description": "MSNBC LIVE: 20171006",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171006150000",
+      "duration": "3540",
+      "ts": "2017-10-06 15:59:02.0",
+      "source": "con-cnbc",
+      "description": "Squawk Alley: 20171006",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_20171006100000",
+      "duration": "3540",
+      "ts": "2017-10-06 14:59:57.0",
+      "source": "hdhr-cnbc",
+      "description": "MSNBC Live With Hallie Jackson: 20171006",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171006130000B",
+      "duration": "3540",
+      "ts": "2017-10-06 14:59:01.0",
+      "source": "con-cnbc",
+      "description": "Squawk on the Street: 20171006",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_2017100690000",
+      "duration": "3540",
+      "ts": "2017-10-06 13:59:31.0",
+      "source": "hdhr-cnbc",
+      "description": "MSNBC Live With Stephanie Ruhle: 20171006",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171006130000A",
+      "duration": "3540",
+      "ts": "2017-10-06 13:59:10.0",
+      "source": "con-cnbc",
+      "description": "Squawk on the Street: 20171006",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171006100000C",
+      "duration": "3540",
+      "ts": "2017-10-06 12:59:08.0",
+      "source": "con-cnbc",
+      "description": "Squawk Box: 20171006",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171006100000B",
+      "duration": "3540",
+      "ts": "2017-10-06 11:59:07.0",
+      "source": "con-cnbc",
+      "description": "Squawk Box: 20171006",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171006100000A",
+      "duration": "3540",
+      "ts": "2017-10-06 10:59:07.0",
+      "source": "con-cnbc",
+      "description": "Squawk Box: 20171006",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_20171006210000",
+      "duration": "3540",
+      "ts": "2017-10-06 02:00:56.0",
+      "source": "hdhr-cnbc",
+      "description": "The Rachel Maddow Show: 20171005",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171005220000",
+      "duration": "3540",
+      "ts": "2017-10-05 22:59:08.0",
+      "source": "con-cnbc",
+      "description": "Mad Money: 20171005",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_20171005170000",
+      "duration": "3540",
+      "ts": "2017-10-05 22:00:05.0",
+      "source": "hdhr-cnbc",
+      "description": "MTP Daily: 20171005",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171005210000",
+      "duration": "3540",
+      "ts": "2017-10-05 21:59:06.0",
+      "source": "con-cnbc",
+      "description": "Fast Money: 20171005",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_20171005160000",
+      "duration": "3540",
+      "ts": "2017-10-05 20:59:44.0",
+      "source": "hdhr-cnbc",
+      "description": "MSNBC Live With Steve Komachi: 20171005",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171005190000B",
+      "duration": "3540",
+      "ts": "2017-10-05 20:59:04.0",
+      "source": "con-cnbc",
+      "description": "",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_20171005150000",
+      "duration": "3540",
+      "ts": "2017-10-05 20:00:22.0",
+      "source": "hdhr-cnbc",
+      "description": "MSNBC Live With Kate Snow: 20171005",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171005190000A",
+      "duration": "3540",
+      "ts": "2017-10-05 19:59:03.0",
+      "source": "con-cnbc",
+      "description": "",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_20171005140000",
+      "duration": "3540",
+      "ts": "2017-10-05 18:59:59.0",
+      "source": "hdhr-cnbc",
+      "description": "MSNBC Live: 20171005",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171005170000B",
+      "duration": "3540",
+      "ts": "2017-10-05 18:59:01.0",
+      "source": "con-cnbc",
+      "description": "Power Lunch: 20171005",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_20171005130000",
+      "duration": "3540",
+      "ts": "2017-10-05 17:59:37.0",
+      "source": "hdhr-cnbc",
+      "description": "MSNBC Live with Craig Melvin: 20171005",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171005170000A",
+      "duration": "3540",
+      "ts": "2017-10-05 17:59:08.0",
+      "source": "con-cnbc",
+      "description": "Power Lunch: 20171005",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_20171005120000",
+      "duration": "3540",
+      "ts": "2017-10-05 17:00:17.0",
+      "source": "hdhr-cnbc",
+      "description": "Andrea Mitchell Reports: 20171005",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171005160000",
+      "duration": "3540",
+      "ts": "2017-10-05 16:59:07.0",
+      "source": "con-cnbc",
+      "description": "Fast Money Halftime Report: 20171005",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_20171005110000",
+      "duration": "3540",
+      "ts": "2017-10-05 16:00:02.0",
+      "source": "hdhr-cnbc",
+      "description": "MSNBC LIVE: 20171005",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171005150000",
+      "duration": "3540",
+      "ts": "2017-10-05 15:59:05.0",
+      "source": "con-cnbc",
+      "description": "Squawk Alley: 20171005",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_20171005100000",
+      "duration": "3540",
+      "ts": "2017-10-05 14:59:39.0",
+      "source": "hdhr-cnbc",
+      "description": "MSNBC Live With Hallie Jackson: 20171005",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171005130000B",
+      "duration": "3540",
+      "ts": "2017-10-05 14:59:04.0",
+      "source": "con-cnbc",
+      "description": "Squawk on the Street: 20171005",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_2017100590000",
+      "duration": "3540",
+      "ts": "2017-10-05 14:00:20.0",
+      "source": "hdhr-cnbc",
+      "description": "MSNBC Live With Stephanie Ruhle: 20171005",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171005130000A",
+      "duration": "3540",
+      "ts": "2017-10-05 13:59:03.0",
+      "source": "con-cnbc",
+      "description": "Squawk on the Street: 20171005",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171005100000C",
+      "duration": "3540",
+      "ts": "2017-10-05 12:59:01.0",
+      "source": "con-cnbc",
+      "description": "Squawk Box: 20171005",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171005100000B",
+      "duration": "3540",
+      "ts": "2017-10-05 11:59:00.0",
+      "source": "con-cnbc",
+      "description": "Squawk Box: 20171005",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171005100000A",
+      "duration": "3540",
+      "ts": "2017-10-05 10:59:10.0",
+      "source": "con-cnbc",
+      "description": "Squawk Box: 20171005",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_20171005210000",
+      "duration": "3540",
+      "ts": "2017-10-05 01:59:36.0",
+      "source": "hdhr-cnbc",
+      "description": "The Rachel Maddow Show: 20171004",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171004220000",
+      "duration": "3540",
+      "ts": "2017-10-04 22:59:01.0",
+      "source": "con-cnbc",
+      "description": "Mad Money: 20171004",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_20171004170000",
+      "duration": "3540",
+      "ts": "2017-10-04 21:59:45.0",
+      "source": "hdhr-cnbc",
+      "description": "MTP Daily: 20171004",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171004210000",
+      "duration": "3540",
+      "ts": "2017-10-04 21:59:09.0",
+      "source": "con-cnbc",
+      "description": "Fast Money: 20171004",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_20171004160000",
+      "duration": "3540",
+      "ts": "2017-10-04 21:00:19.0",
+      "source": "hdhr-cnbc",
+      "description": "MSNBC Live With Steve Komachi: 20171004",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171004190000B",
+      "duration": "3540",
+      "ts": "2017-10-04 20:59:07.0",
+      "source": "con-cnbc",
+      "description": "",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_20171004150000",
+      "duration": "3540",
+      "ts": "2017-10-04 20:00:05.0",
+      "source": "hdhr-cnbc",
+      "description": "MSNBC Live With Kate Snow: 20171004",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171004190000A",
+      "duration": "3540",
+      "ts": "2017-10-04 19:59:06.0",
+      "source": "con-cnbc",
+      "description": "",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_20171004140000",
+      "duration": "3540",
+      "ts": "2017-10-04 18:59:43.0",
+      "source": "hdhr-cnbc",
+      "description": "MSNBC Live: 20171004",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171004170000B",
+      "duration": "3540",
+      "ts": "2017-10-04 18:59:04.0",
+      "source": "con-cnbc",
+      "description": "Power Lunch: 20171004",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_20171004130000",
+      "duration": "3540",
+      "ts": "2017-10-04 18:00:23.0",
+      "source": "hdhr-cnbc",
+      "description": "MSNBC Live with Craig Melvin: 20171004",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171004170000A",
+      "duration": "3540",
+      "ts": "2017-10-04 17:59:02.0",
+      "source": "con-cnbc",
+      "description": "Power Lunch: 20171004",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_20171004120000",
+      "duration": "3540",
+      "ts": "2017-10-04 17:00:00.0",
+      "source": "hdhr-cnbc",
+      "description": "Andrea Mitchell Reports: 20171004",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171004160000",
+      "duration": "3540",
+      "ts": "2017-10-04 16:59:01.0",
+      "source": "con-cnbc",
+      "description": "Fast Money Halftime Report: 20171004",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_20171004110000",
+      "duration": "3540",
+      "ts": "2017-10-04 15:59:36.0",
+      "source": "hdhr-cnbc",
+      "description": "MSNBC LIVE: 20171004",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171004150000",
+      "duration": "3540",
+      "ts": "2017-10-04 15:59:09.0",
+      "source": "con-cnbc",
+      "description": "Squawk Alley: 20171004",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_20171004100000",
+      "duration": "3540",
+      "ts": "2017-10-04 15:00:18.0",
+      "source": "hdhr-cnbc",
+      "description": "MSNBC Live With Hallie Jackson: 20171004",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171004130000B",
+      "duration": "3540",
+      "ts": "2017-10-04 14:59:07.0",
+      "source": "con-cnbc",
+      "description": "Squawk on the Street: 20171004",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_2017100490000",
+      "duration": "3540",
+      "ts": "2017-10-04 14:00:03.0",
+      "source": "hdhr-cnbc",
+      "description": "MSNBC Live With Stephanie Ruhle: 20171004",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171004130000A",
+      "duration": "3540",
+      "ts": "2017-10-04 13:59:06.0",
+      "source": "con-cnbc",
+      "description": "Squawk on the Street: 20171004",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171004100000C",
+      "duration": "3540",
+      "ts": "2017-10-04 12:59:05.0",
+      "source": "con-cnbc",
+      "description": "Squawk Box: 20171004",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171004100000B",
+      "duration": "3540",
+      "ts": "2017-10-04 11:59:05.0",
+      "source": "con-cnbc",
+      "description": "Squawk Box: 20171004",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1819_20171004100000A",
+      "duration": "3540",
+      "ts": "2017-10-04 10:59:03.0",
+      "source": "con-cnbc",
+      "description": "Squawk Box: 20171004",
+      "maddress": "/mediaaws/control1_cnbc",
+      "type": "video",
+      "activity": "cnbc"
+    },
+    {
+      "id": "1034_20171004210000",
+      "duration": "3540",
+      "ts": "2017-10-04 02:00:17.0",
+      "source": "hdhr-cnbc",
+      "description": "The Rachel Maddow Show: 20171003",
+      "maddress": "/news",
+      "type": "video",
+      "activity": "cnbc"
+    }
+  ]
+}
