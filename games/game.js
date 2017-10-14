@@ -1,7 +1,6 @@
 var game = (function() {
   AFRAME.registerComponent('ball', {
     init: function() {
-      console.log(this);
       this.el.addEventListener('click', function(e) {
         console.log(e);
       });
@@ -9,10 +8,12 @@ var game = (function() {
 
     tick: function(time, timeDelta) {
       var cameraPos = this.el.sceneEl.camera.el.getAttribute('position');
-      this.el.setAttribute('position', {x: cameraPos.x + 2, y: cameraPos.y - 1, z: cameraPos.z - 2});
-      // if(this.el.hasOwnProperty('body')) {
-      //
-      // }
+      if(this.el.hasOwnProperty('body')) {
+        this.el.body.velocity.set(0, 0, 0);
+        this.el.body.angularVelocity.set(0, 0, 0);
+        this.el.body.quaternion.set(0, 0, 0, 1);
+        this.el.body.position.set(cameraPos.x + 2, cameraPos.y - 1, cameraPos.z - 2);
+      }
     }
   });
 
