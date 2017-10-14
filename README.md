@@ -1,9 +1,8 @@
 # A-Frame Boilerplate
 
-## Download vids
+## Download a video
 ```sh
-chmod u+x smapi/downloadmp4.sh ## one-time step
-sh smapi/downloadvids.sh
+sh smapi/downloadmp4.sh /news 1034_20171013170000
 ```
 
 Boilerplate for creating WebVR scenes with [A-Frame](https://aframe.io).
