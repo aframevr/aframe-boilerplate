@@ -45,6 +45,7 @@ function getAssetData(id) {
 // get time encoded data
 // getAssetData('1819_20171003190000A');
 // getAssetData('YSHR01022H')
+// getAssetData('rhonyc_801')
 
 // DOWNLOAD MP4 - not working yet
 // downloadMP4('/media/sprout', 'YSHR01022H')
