@@ -1,11 +1,11 @@
 #!/bin/bash
 
 mkdir smapi/videos
-for video in '/media/sprout YSHR01012H' \
-'/media/rhonyc rhonyc_801' \
+for video in '/media/rhonyc rhonyc_801' \
 '/news 1034_20171013170000' \
+## '/media/sprout YSHR01012H' \
 
 do
-./shell/downloadmp4.sh $video
+./smapi/downloadmp4.sh $video
 echo $video
 done
