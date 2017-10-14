@@ -1,5 +1,5 @@
 smapi/videos/*.mp4
-
+.tmp/
 
 .DS_Store
 *.sw[mnop]
