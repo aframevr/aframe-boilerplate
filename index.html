@@ -22,15 +22,10 @@
         rotation="0 0 0"
         look-controls="standing: false"
         wasd-controls>
-        <a-entity
-          position="0 0 -1"
-          geometry="primitive: circle; radius: 0.0075"
-          material="color: black; shader: flat">
-        </a-entity>
-        <a-entity
+        <a-entity id="cursor"
           cursor="fuse: false"
           position="0 0 -1"
-          geometry="primitive: circle; radius: 0.0055"
+          geometry="primitive: ring; radiusInner: 0.005; radiusOuter: 0.008"
           material="color: white; shader: flat">
         </a-entity>
       </a-entity>
