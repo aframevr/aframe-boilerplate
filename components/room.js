@@ -21,7 +21,7 @@ AFRAME.registerComponent('room', {
     // collada
     var loader = new THREE.ColladaLoader();
     loader.options.convertUpAxis = true;
-    loader.load('../assets/nbc_room/nbc_room.dae', function (collada) {
+    loader.load('assets/nbc_room/nbc_room.dae', function (collada) {
       room = collada.scene;
       el.setObject3D('mesh', room);
     });
