@@ -5,13 +5,11 @@
     <title>Hello, World! - A-Frame</title>
     <meta name="description" content="Hello, World! - A-Frame">
     <script src="https://aframe.io/releases/0.7.0/aframe.min.js"></script>
+    <script src="loaders/ColladaLoader2.js"></script>
+    <script src="components/room.js"></script>
   </head>
   <body>
     <a-scene>
-      <a-assets>
-        <a-asset-item id="room" src="assets/big_room/scene.gltf"></a-asset-item>
-      </a-assets>
-
       <a-entity
         camera="userHeight: 1.6"
         look-controls wasd-controls>
@@ -27,8 +25,7 @@
           material="color: white; shader: flat">
         </a-entity>
       </a-entity>
-
-      <a-entity position="-600 -60 400" gltf-model="#room"></a-entity>
+      <a-entity room></a-entity>
       <a-sky color="#ECECEC"></a-sky>
     </a-scene>
   </body>
