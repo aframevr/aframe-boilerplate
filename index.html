@@ -5,13 +5,15 @@
     <title>Octopus VR</title>
     <meta name="description" content="Octopus VR">
     <script src="https://aframe.io/releases/0.7.0/aframe.min.js"></script>
+    <script src="components/tv.js"></script>
   </head>
   <body>
     <a-scene>
 
       <a-assets>
         <a-asset-item id="room-model" src="assets/nbc_room/model.dae"></a-asset-item>
-        <a-asset-item id="speaker-model" src="assets/speaker/model.dae"></a-asset-item>
+        <!-- <a-asset-item id="speaker-model" src="assets/speaker/model.dae"></a-asset-item> -->
+        <video id="the-vid" src="smapi/videos/rhonyc_801_2m.mp4">
       </a-assets>
 
       <a-entity
@@ -32,9 +34,13 @@
           material="color: white; shader: flat">
         </a-entity>
       </a-entity>
-      <a-entity collada-model="speaker-model" position="0 1 0"></a-entity>
+      <!-- <a-entity collada-model="#speaker-model" position="0 1 0"></a-entity> -->
       <a-entity collada-model="#room-model" rotation="0 180 0"></a-entity>
       <a-sky color="#ECECEC"></a-sky>
+      <a-entity
+        tv="src: #the-vid; height: 2.600; width: 4.622"
+        position="0.347 1.388; -2.563">
+      </a-entity>
     </a-scene>
   </body>
 </html>
