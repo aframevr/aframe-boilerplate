@@ -4,14 +4,36 @@ var game = (function() {
   var isShooting = false;
   var currentPosition = new CANNON.Vec3(0, 0, 0);
   var lastPosition = new CANNON.Vec3(0, 0, 0);
+  var isOverlapping = false;
   var shotTimer = null;
+  var basket = null;
+  var score = 0;
+  var scoreText = null;
 
   var SHOT_VELOCITY_X = 0;
   var SHOT_VELOCITY_Y = 40;
-  var SHOT_VELOCITY_Z = -22;
+  var SHOT_VELOCITY_Z = -20;
 
-  function shootBall(timeDelta, ballElem) {
+  function shootBall(ballElem) {
     ballElem.body.applyLocalImpulse(new CANNON.Vec3(SHOT_VELOCITY_X, SHOT_VELOCITY_Y, SHOT_VELOCITY_Z), new CANNON.Vec3(0, 0, 0));
+  }
+
+  function checkOverlap(overlapper) {
+    if(
+      lastPosition.x <= overlapper.body.position.x + 0.2 && lastPosition.x >= overlapper.body.position.x - 0.2 &&
+      lastPosition.y <= overlapper.body.position.y + 0.2 && lastPosition.y >= overlapper.body.position.y - 0.2 &&
+      lastPosition.z <= overlapper.body.position.z + 0.2 && lastPosition.z >= overlapper.body.position.z - 0.2
+    ) {
+      return true;
+    } else {
+      return false;
+    }
+  }
+
+  function scorePoint() {
+    isOverlapping = true;
+    score += 3;
+    scoreText.setAttribute('value', score.toString());
   }
 
   AFRAME.registerComponent('ball', {
@@ -40,7 +62,7 @@ var game = (function() {
 
         if(hasShot && !isShooting) {
           currentPosition.copy(this.el.body.position);
-          shootBall(timeDelta / 1000.0, this.el);
+          shootBall(this.el);
           isShooting = true;
         }
 
@@ -48,11 +70,18 @@ var game = (function() {
           if(shotTimer < Date.now()) {
             hasShot = false;
             isShooting = false;
+            isOverlapping = false;
             shotTimer = Date.now() + 5000;
           }
         }
 
         lastPosition.copy(this.el.body.position);
+
+        if(checkOverlap(basket)) {
+          if(!isOverlapping) {
+            scorePoint();
+          }
+        }
       }
     }
   });
@@ -61,6 +90,8 @@ var game = (function() {
     var camera = document.querySelector('[camera]');
     var scene = document.querySelector('a-scene');
     var ball = document.querySelector('[ball]');
+    basket = document.querySelector('#basket');
+    scoreText = document.querySelector('#scoreText');
 
     scene.addEventListener('click', function(e) {
       if(!hasShot) {
