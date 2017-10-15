@@ -11,6 +11,23 @@
       <a-assets>
         <a-asset-item id="room" src="assets/big_room/scene.gltf"></a-asset-item>
       </a-assets>
+
+      <a-entity
+        camera="userHeight: 1.6"
+        look-controls wasd-controls>
+        <a-entity
+          position="0 0 -1"
+          geometry="primitive: circle; radius: 0.01"
+          material="color: black; shader: flat">
+        </a-entity>
+        <a-entity
+          cursor="fuse: false"
+          position="0 0 -1"
+          geometry="primitive: circle; radius: 0.007"
+          material="color: white; shader: flat">
+        </a-entity>
+      </a-entity>
+
       <a-entity position="-600 -60 400" gltf-model="#room"></a-entity>
       <a-sky color="#ECECEC"></a-sky>
     </a-scene>
