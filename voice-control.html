@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Hello, World! - A-Frame</title>
+    <meta name="description" content="Hello, World! - A-Frame">
+    <script src="https://aframe.io/releases/0.7.0/aframe.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/annyang/2.5.0/annyang.min.js"></script> 
+    <script src="https://unpkg.com/aframe-text-geometry-component@^0.5.0/dist/aframe-text-geometry-component.min.js"></script>
+    <script src="https://rawgit.com/ngokevin/aframe-look-at-component/master/dist/aframe-look-at-component.min.js"></script>
+    <script src="./components/speech-recognition.js" type="module"></script>
+    <script src="./components/text-box.js" type="module"></script>
+    <!-- <script src="./../assets/xfinity_sans_light_regular.js"></script> -->
+  </head>
+  <body>
+    <script type="application/json">
+    </script>
+    <a-scene>
+      <a-videosphere src="#video" rotation="0 180 0"></a-videosphere>
+      <a-entity id="annyang" 
+                speech-recognition="videoEl: #videoContent; textEl: #descriptionText; textBoxEl: #textBox"></a-entity>
+      <a-assets>
+        <video id="videoContent" 
+               preload="auto" 
+               src="./../quantiphi/friends/taggedvideos/friends_S07_E01.mp4"
+               autoplay loop crossorigin="anonymous" position="2 2 2">
+        </video>
+      </a-assets>
+      <a-entity id="video"
+                material="shader: flat; src: #videoContent"
+                geometry="primitive: plane; width: 360; height: 240;"
+                position="0 0 -250"
+                rotation="0 0 0">
+      </a-entity>
+      <a-camera camera>
+        <a-text id="descriptionText"
+                value="Sample text"
+                font="/assets/Roboto-msdf.json"
+                fontImage="/assets/Roboto-msdf.png"
+                height="2"
+                position="4 2 -5"
+                color="black"
+                width="2"
+                wrap-count="20"
+                >
+        </a-text>
+        <a-box text-box
+             id="textBox"
+             material="color: #1565C0; transparent: true; opacity: 0.5" 
+             depth="0.01" height="2" width="2.5" 
+             position="5 1.4 -5">
+        </a-box>
+      </a-camera>
+    </a-scene>
+  </body>
+</html>
