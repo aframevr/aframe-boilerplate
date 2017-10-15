@@ -1,3 +1,5 @@
+.tmp/
+
 .DS_Store
 *.sw[mnop]
 
