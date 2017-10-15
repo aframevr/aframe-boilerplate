@@ -10,9 +10,9 @@
   </head>
   <body>
     <a-scene physics>
-      <a-camera position="0 0 5">
+      <a-entity camera look-controls="standing: false" wasd-controls standing="false" position="0 2 5">
         <a-cursor></a-cursor>
-      </a-camera>
+      </a-entity>
       <a-entity dynamic-body ball position="0 5 -1" scale="0.1 0.1 0.1" material="color: blue"></a-entity>
       <a-plane src="half-court.png" static-body position="0 0 3" rotation="-90 -90 0" width="10" height="6" shadow></a-plane>
       <a-cylinder static-body color="crimson" height="4" radius="0.05" position="0, 2, -1.2"></a-cylinder>
