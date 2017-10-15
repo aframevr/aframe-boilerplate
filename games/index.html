@@ -20,7 +20,10 @@
         <a-cursor></a-cursor>
       </a-entity>
       <a-ring id="basket" static-body color="white" material="side: double" position="0 3 -0.8" rotation="-90 0 0" radius-inner="0.35" radius-outer="0.4"></a-ring>
-      <a-entity dynamic-body ball position="0 5 -1" collada-model="#money-model" rotation="-90 0 0"></a-entity>
+      <a-entity id="object0" dynamic-body ball position="0 5 -1" visible="false" collada-model="#amazon-model" rotation="-90 0 0"></a-entity>
+      <a-entity id="object1" dynamic-body ball position="0 5 -1" visible="false" collada-model="#money-model" rotation="-90 0 0"></a-entity>
+      <a-entity id="object2" dynamic-body ball position="0 5 -1" visible="false" scale="0.05 0.05 0.05" collada-model="#microsoft-model" rotation="-90 0 0"></a-entity>
+      <a-entity id="object3" dynamic-body ball position="0 5 -1" visible="false" scale="0.1 0.1 0.1" collada-model="#google-model" rotation="-90 0 0"></a-entity>
       <a-plane src="half-court.png" static-body position="0 0 3" rotation="-90 -90 0" width="10" height="6" shadow></a-plane>
       <a-cylinder static-body color="crimson" height="4" radius="0.05" position="0, 2, -1.2"></a-cylinder>
       <a-box static-body src="backboard.png" depth="0.05" height="1.5" width="2" position="0, 3.75, -1.1"></a-box>

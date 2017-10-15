@@ -10,6 +10,7 @@ var game = (function() {
   var ball = null;
   var score = 0;
   var scoreText = null;
+  var activeObject = null;
 
   var SHOT_VELOCITY_X = 0;
   var SHOT_VELOCITY_Y = 40;
@@ -42,6 +43,13 @@ var game = (function() {
     scoreText.setAttribute('value', score.toString());
   }
 
+  function setActiveObject() {
+    var rndInt = getRandomInt(0, 3);
+    activeObject = document.querySelector('#object' + rndInt.toString());
+    activeObject.setAttribute('visible', true);
+    activeObject.play();
+  }
+
   AFRAME.registerComponent('ball', {
     init() {
       // this.geometry = new THREE.SphereBufferGeometry(this.data.radius);
@@ -72,34 +80,9 @@ var game = (function() {
             hasShot = false;
             isShooting = false;
             isOverlapping = false;
-            var rndInt = getRandomInt(0, 3);
-            switch(rndInt) {
-              case 0:
-                console.log('money');
-                ball.setAttribute('collada-model', '#money-model');
-                ball.setAttribute('scale', '1 1 1');
-                break;
-              case 1:
-                console.log('google');
-                ball.setAttribute('collada-model', '#google-model');
-                ball.setAttribute('scale', '0.1 0.1 0.1');
-                break;
-              case 2:
-                console.log('amazon');
-                ball.setAttribute('collada-model', '#amazon-model');
-                ball.setAttribute('scale', '1 1 1');
-                break;
-              case 3:
-                console.log('microsoft');
-                ball.setAttribute('collada-model', '#microsoft-model');
-                ball.setAttribute('scale', '0.05 0.05 0.05');
-                break;
-              default:
-                console.log('default');
-                ball.setAttribute('collada-model', '#money-model');
-                ball.setAttribute('scale', '0.1 0.1 0.1');
-                break;
-            }
+            activeObject.pause();
+            activeObject.setAttribute('visible', true);
+            setActiveObject();
             shotTimer = Date.now() + SHOT_TIMER;
           }
         }
@@ -115,18 +98,26 @@ var game = (function() {
     }
   });
 
-  document.addEventListener("DOMContentLoaded", function() {
-    var camera = document.querySelector('[camera]');
+  document.addEventListener("DOMContentLoaded", function(event) {
     var scene = document.querySelector('a-scene');
-    ball = document.querySelector('[ball]');
-    basket = document.querySelector('#basket');
-    scoreText = document.querySelector('#scoreText');
+    scene.addEventListener("loaded", function() {
+      var camera = document.querySelector('[camera]');
+      basket = document.querySelector('#basket');
+      scoreText = document.querySelector('#scoreText');
 
-    scene.addEventListener('click', function(e) {
-      if(!hasShot) {
-        hasShot = true;
-        shotTimer = Date.now() + SHOT_TIMER;
-      }
+      document.querySelector('#object0').pause();
+      document.querySelector('#object1').pause();
+      document.querySelector('#object2').pause();
+      document.querySelector('#object3').pause();
+
+      setActiveObject();
+
+      scene.addEventListener('click', function(e) {
+        if(!hasShot) {
+          hasShot = true;
+          shotTimer = Date.now() + SHOT_TIMER;
+        }
+      });
     });
   });
 })()
