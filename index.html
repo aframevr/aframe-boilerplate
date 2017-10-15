@@ -4,17 +4,49 @@
     <meta charset="utf-8">
     <title>Octopus VR</title>
     <meta name="description" content="Octopus VR">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <script src="https://aframe.io/releases/0.7.0/aframe.min.js"></script>
     <script src="components/tv.js"></script>
+    <style media="screen">
+      .demo-nav  {
+        position: absolute;
+        bottom: 10px;
+        left: 20px;
+      }
+    </style>
+    <link rel="icon" href="favicon.ico" />
   </head>
   <body>
     <a-scene>
 
       <a-assets>
-        <a-asset-item id="room-model" src="assets/newsroom/newsroom.dae"></a-asset-item>
+        <a-asset-item id="room-model" src="assets/newsroom_set/newsroom_set.dae"></a-asset-item>
+        <a-asset-item id="plane-obj" src="/assets/plane.obj"></a-asset-item>
+        <a-asset-item id="plane-mtl" src="/assets/plane.mtl"></a-asset-item>
         <!-- <a-asset-item id="speaker-model" src="assets/speaker/model.dae"></a-asset-item> -->
-        <video id="the-vid" src="smapi/videos/rhonyc_801_2m.mp4">
+        <video id="the-vid" src="smapi/videos/airport_bomb.mp4">
+        <img id='article' src="assets/article1.png"></img>
       </a-assets>
+
+      <a-entity light="type: ambient; color: #fff; intensity: 0.5"></a-entity>
+
+      <a-entity
+        light="type: spot; color: #fff; intensity: 0.85; angle: 34.430; castShadow: true"
+        position="2.494 3.713 3.737"
+        rotation="-10.970 15.000 0">
+      </a-entity>
+
+      <a-entity
+        light="type: spot; color: #fff; intensity: 0.85; angle: 34.430"
+        position="4.621 3.725 -1.684"
+        rotation="-15.220 35.790 0">
+      </a-entity>
+
+      <a-entity
+        light="type: spot; color: #fff; intensity: 0.85; angle: 34.430"
+        position="-2.580 3.725 4.237"
+        rotation="-15.220 -2.310 0">
+      </a-entity>
 
       <a-entity
         camera
@@ -22,26 +54,52 @@
         rotation="0 0 0"
         look-controls="standing: false"
         wasd-controls>
-        <a-entity
-          position="0 0 -1"
-          geometry="primitive: circle; radius: 0.0075"
-          material="color: black; shader: flat">
-        </a-entity>
-        <a-entity
+        <a-entity id="cursor"
           cursor="fuse: false"
           position="0 0 -1"
-          geometry="primitive: circle; radius: 0.0055"
+          geometry="primitive: ring; radiusInner: 0.005; radiusOuter: 0.008"
           material="color: white; shader: flat">
         </a-entity>
       </a-entity>
+
+      <!-- Scrolling article -->
+      <a-entity>
+        <a-curvedimage src="#article" opacity="0.6" radius="4" theta-length="30" height="100" rotation="0 200 0" scale="0.5 0.5 0.5" material="" geometry="" visible="">
+          <a-animation attribute="position" from="-0.5 -22 -6" to="-0.5 160 -6" dur="5000000" easing="ease-out"></a-animation>
+        </a-curvedimage>
+      </a-entity>
+
+      <!-- Airplane -->
+      <a-entity obj-model="obj: #plane-obj; mtl: #plane-mtl" scale="0.1 0.1 0.1" rotation="-20 -90 0">
+        <a-animation attribute="position" from="20 0 -2" to="-20 8 -2" dur="30000" easing="ease-out"></a-animation>
+      </a-entity>
+
       <!-- <a-entity collada-model="#speaker-model" position="0 1 0"></a-entity> -->
       <a-entity collada-model="#room-model" rotation="0 -45 0"></a-entity>
       <a-sky color="#ECECEC"></a-sky>
       <a-entity
         tv="src: #the-vid; height: 2.600; width: 4.622"
-        position="2.386 2.641 -6.562"
+        position="3.135 2.641 -5.733"
         rotation="0 -45 0">
       </a-entity>
     </a-scene>
+    <div class="demo-nav">
+      <button class="btn" id="cam1" type="button" name="button">Camera 1</button>
+      <button class="btn" id="cam2" type="button" name="button">Camera 2</button>
+      <button class="btn" id="cam3" type="button" name="button">Camera 3</button>
+    </div>
+    <script type="text/javascript">
+      function handler(e) {
+         console.log('id:', this.id);
+      }
+      var cam1 = document.getElementById('cam1');
+      cam1.addEventListener('click', handler);
+
+      var cam2 = document.getElementById('cam2');
+      cam2.addEventListener('click', handler);
+
+      var cam3 = document.getElementById('cam3');
+      cam3.addEventListener('click', handler);
+    </script>
   </body>
 </html>

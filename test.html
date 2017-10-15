@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>OctopusVR </title>
+    <meta name="description" content="Hello, World! - A-Frame">
+    <script src="https://aframe.io/releases/0.7.0/aframe.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/annyang/2.5.0/annyang.min.js"></script>
+    <script src="https://unpkg.com/aframe-text-geometry-component@^0.5.0/dist/aframe-text-geometry-component.min.js"></script>
+    <script src="https://rawgit.com/ngokevin/aframe-look-at-component/master/dist/aframe-look-at-component.min.js"></script>
+    <!-- <script src="./components/speech-recognition.js" type="module"></script> -->
+    <script src="./components/text-box.js" type="module"></script>
+    <!-- <script src="./../assets/xfinity_sans_light_regular.js"></script> -->
+    <!-- <script src="https://rawgit.com/feiss/aframe-environment-component/master/dist/aframe-environment-component.min.js"></script> -->
+    <script src="https://unpkg.com/aframe-html-shader@0.2.0/dist/aframe-html-shader.min.js"></script>
+  </head>
+  <body>
+    <script type="text/javascript">
+      console.log('');
+    </script>
+    <script type="application/json">
+    </script>
+    <a-scene>
+      <a-entity geometry="primitive: box" material="shader: html; target: #htmlElement"></a-entity>
+      <div style="width: 100%; height: 100%; position: fixed; left: 0; top: 0; z-index: -1; overflow: hidden">
+        <div id="htmlElement" style="background: #F8F8F8; color: #333; font-size: 48px">Welcome!</div>
+
+      </div>
+      <!-- <a-videosphere src="#video" rotation="0 180 0"></a-videosphere> -->
+      <!-- <a-sky color="#ECECEC"></a-sky> -->
+      <!-- <a-entity environment="preset: forest; groundTexture: none; groundColor: green; grid: cross"></a-entity> -->
+      <!-- <a-entity id="annyang" speech-recognition="videoEl: #videoContent; textEl: #descriptionText; textBoxEl: #textBox"></a-entity> -->
+      <a-assets>
+        <video id="videoContent"
+               preload="none"
+               src="smapi/videos/airport_bomb.mp4"
+               loop  crossorigin="anonymous" position="2 2 2">
+        </video>
+      </a-assets>
+      <a-entity id="video"
+                material="shader: flat; src: #videoContent"
+                geometry="primitive: plane; width: 360; height: 240;"
+                position="0 0 -250"
+                rotation="0 0 0">
+      </a-entity>
+      <a-camera camera>
+        <a-text id="descriptionText"
+                value="Sample text"
+                font="assets/Roboto-msdf.json"
+                fontImage="assets/Roboto-msdf.png"
+                height="2"
+                position="4 2 -5"
+                color="black"
+                width="2"
+                wrap-count="20">
+        </a-text>
+        <a-box text-box
+             id="textBox"
+             material="shader: flat; color: #1565C0; transparent: true; opacity: 0.5"
+             depth="0.01" height="2" width="2.5"
+             position="5 1.4 -5">
+        </a-box>
+      </a-camera>
+    </a-scene>
+  </body>
+</html>
