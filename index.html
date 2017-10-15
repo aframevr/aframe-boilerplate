@@ -5,19 +5,22 @@
     <title>Octopus VR</title>
     <meta name="description" content="Octopus VR">
     <script src="https://aframe.io/releases/0.7.0/aframe.min.js"></script>
-
-    <!-- Loaders -->
-    <script src="loaders/ColladaLoader2.js"></script>
-    <script src="loaders/index.js"></script>
-
     <script src="components/room.js"></script>
     <script src="components/speaker.js"></script>
   </head>
   <body>
     <a-scene>
+
+      <a-assets>
+        <a-asset-item id="room-model" src="../assets/nbc_room/nbc_room.dae"></a-asset-item>
+      </a-assets>
+
       <a-entity
-        camera="userHeight: 1.6"
-        look-controls wasd-controls>
+        camera
+        position="0.275 1.292 1.222"
+        rotation="0 0 0"
+        look-controls="standing: false"
+        wasd-controls>
         <a-entity
           position="0 0 -1"
           geometry="primitive: circle; radius: 0.0075"
@@ -30,8 +33,8 @@
           material="color: white; shader: flat">
         </a-entity>
       </a-entity>
-      <a-entity room></a-entity>
       <a-entity speaker position="0 1 0"></a-entity>
+      <a-entity collada-model="#room-model" rotation="0 180 0"></a-entity>
       <a-sky color="#ECECEC"></a-sky>
     </a-scene>
   </body>
