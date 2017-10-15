@@ -20,9 +20,14 @@
       <a-entity id="annyang" 
                 speech-recognition="videoEl: #videoContent; textEl: #descriptionText; textBoxEl: #textBox"></a-entity>
       <a-assets>
-        <video id="videoContent" 
+        <!-- <video id="videoContent" 
                preload="auto" 
                src="./../quantiphi/friends/taggedvideos/friends_S07_E01.mp4"
+               autoplay loop crossorigin="anonymous" position="2 2 2">
+        </video> -->
+        <video id="videoContent" 
+               preload="auto" 
+               src="smapi/videos/1034_20171013170000_2m.mp4#t=200"
                autoplay loop crossorigin="anonymous" position="2 2 2">
         </video>
       </a-assets>
@@ -35,13 +40,16 @@
       <a-camera camera>
         <a-text id="descriptionText"
                 value="Sample text"
-                font="/assets/Roboto-msdf.json"
-                fontImage="/assets/Roboto-msdf.png"
+                font="assets/Roboto-msdf.json"
+                fontImage="assets/Roboto-msdf.png"
                 height="2"
                 position="4 2 -5"
                 color="black"
                 width="2"
                 wrap-count="20"
+                anchor="left"
+                baseline="top"
+                material="color:red"
                 >
         </a-text>
         <a-box text-box
