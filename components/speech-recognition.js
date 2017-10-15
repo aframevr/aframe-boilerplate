@@ -50,9 +50,9 @@ AFRAME.registerComponent('speech-recognition', {
     .then(tag => {
       const characters = tag.data.CHARACTERS
       let text
-      if (characters.length == 1) {
+      if (characters.length === 1) {
         text = `That was ${characters[0]}`
-      } else if (characters.length == 2) {
+      } else if (characters.length === 2) {
         text = `They were ${characters[0]} and ${characters[1]}`
       } else {
         text = "They were " + characters.slice(0, characters.length - 2).reduce((character, str) => {
@@ -73,6 +73,17 @@ AFRAME.registerComponent('speech-recognition', {
     this.updateDescriptionText('Some lady is talking')
   },
 
+  showNewsHistory: function() {
+    console.log('show news history')
+    const time = this.getCurrentTime()
+    if (!time) {
+      return
+    }
+    console.log(time)
+    this.analyzer.getPastSegmentTerms(time)
+    .then(text => this.updateDescriptionText(text))
+  },
+
   showLocation: function() {
     const time = this.getCurrentTime()
     if (!time) { 
@@ -86,13 +97,16 @@ AFRAME.registerComponent('speech-recognition', {
   },
 
   updateDescriptionText: function(newText) {
+    if (!newText) {
+      return
+    }
     console.log(`Setting text to ${newText}`)
     const descriptionText = document.querySelector(this.data.textEl);
     descriptionText.setAttribute('value', newText);
     this.showText()
     setTimeout(() => {
       this.hideText(this)
-    }, 4000)
+    }, 5000)
   },
 
   play: function() {
@@ -107,6 +121,8 @@ AFRAME.registerComponent('speech-recognition', {
       'who is *name': this.showPerson.bind(this),
       'where is this': this.showLocation.bind(this),
       'where are they': this.showLocation.bind(this),
+      'what did i miss': this.showNewsHistory.bind(this),
+      'what\'s coming up': this.showNewsHistory.bind(this),
     }
 
     annyang.debug()

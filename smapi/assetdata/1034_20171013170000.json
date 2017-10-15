@@ -1,1 +1,481 @@
-{"title":"MTP Daily: 20171013","subtitle":"http://54.226.255.57/media/control1_cnbc/1034_20171013170000","startDateUtc":0,"description":"MTP Daily: 20171013","genres":[],"duration":"3600000","isoDuration":"PT3600.0000","externalIds":{"externalIdKey1":"20171013TODD791C_FIN","externalIdKey2":"20171013TRUMP181B_FIN","externalIdKey3":"20171013TODD2DCE_FIN","externalIdKey4":"20171013CLINTON0B50_FIN","externalIdKey5":"20171013CLINTON5199_FIN","externalIdKey6":"20171013CLINTON8D5E_FIN","externalIdKey7":"20171013TODD6157_FIN","externalIdKey8":"20171013CORKERS8224_FIN","externalIdKey9":"20171013TODD5D08_FIN","externalIdKey10":"20171013SEBELIUS8643_FIN","externalIdKey11":"20171013SEBELIUSE01A_FIN","externalIdKey12":"20171013SEBELIUS8F16_FIN","externalIdKey13":"20171013SEBELIUS180C_FIN","externalIdKey14":"20171013TODDBF2D_FIN","externalIdKey15":"20171013CURRYF71C_FIN","externalIdKey16":"20171013MARCUS7DE6_FIN","externalIdKey17":"20171013PANETTACD30_FIN","externalIdKey18":"20171013TODDD007_FIN","externalIdKey19":"20171013PANETTA897F_FIN","externalIdKey20":"20171013PANETTAF0A1_FIN","externalIdKey21":"20171013KENTD635_FIN","externalIdKey22":"20171013PANETTAC287_FIN","externalIdKey23":"20171013L.A46E_FIN","externalIdKey24":"20171013PANETTAE21D_FIN","externalIdKey25":"20171013_727D73_FIN"},"frameRate":"29.97","totalFrames":"104400","events":{"keyterms":[],"namedEntities":[{"in":56620,"out":64560,"index":1,"text":"DONALD TRUMP"},{"in":171940,"out":180380,"index":1,"text":"DONALD TRUMP"},{"in":181310,"out":219050,"index":1,"text":"DONALD TRUMP"},{"in":233170,"out":244080,"index":1,"text":"DONALD TRUMP"},{"in":244240,"out":251580,"index":1,"text":"DONALD TRUMP"},{"in":251580,"out":257190,"index":1,"text":"DONALD TRUMP"},{"in":277640,"out":285820,"index":1,"text":"DONALD TRUMP"},{"in":315020,"out":327990,"index":1,"text":"HILLARY CLINTON"},{"in":327990,"out":333630,"index":1,"text":"HILLARY CLINTON"},{"in":336940,"out":355620,"index":1,"text":"HILLARY CLINTON"},{"in":355620,"out":401570,"index":1,"text":"HILLARY CLINTON"},{"in":401570,"out":415120,"index":1,"text":"HILLARY CLINTON"},{"in":415120,"out":433030,"index":1,"text":"HILLARY CLINTON"},{"in":433030,"out":439440,"index":1,"text":"HILLARY CLINTON"},{"in":439440,"out":455690,"index":1,"text":"HILLARY CLINTON"},{"in":455690,"out":484580,"index":1,"text":"HILLARY CLINTON"},{"in":484580,"out":499600,"index":1,"text":"HILLARY CLINTON"},{"in":499600,"out":516650,"index":1,"text":"HILLARY CLINTON"},{"in":516650,"out":544340,"index":1,"text":"HILLARY CLINTON"},{"in":544340,"out":562600,"index":1,"text":"HILLARY CLINTON"},{"in":562600,"out":592130,"index":1,"text":"HILLARY CLINTON"},{"in":592130,"out":599730,"index":1,"text":"HILLARY CLINTON"},{"in":1505440,"out":1509540,"index":1,"text":"STEPH CURRY"},{"in":1518650,"out":1522690,"index":1,"text":"STEPH CURRY"},{"in":1550980,"out":1556090,"index":1,"text":"STEPH CURRY"},{"in":1566370,"out":1568840,"index":1,"text":"STEPH CURRY"},{"in":1583450,"out":1589320,"index":1,"text":"STEPH CURRY"},{"in":1624590,"out":1628130,"index":1,"text":"STEPH CURRY"},{"in":1637140,"out":1641610,"index":1,"text":"STEPH CURRY"},{"in":1651950,"out":1653590,"index":1,"text":"STEPH CURRY"},{"in":1660990,"out":1662960,"index":1,"text":"STEPH CURRY"},{"in":1693690,"out":1698230,"index":1,"text":"STEPH CURRY"},{"in":1727930,"out":1732870,"index":1,"text":"STEPH CURRY"},{"in":1737500,"out":1742140,"index":1,"text":"STEPH CURRY"},{"in":1752120,"out":1754450,"index":1,"text":"STEPH CURRY"},{"in":1774870,"out":1782120,"index":1,"text":"DONALD TRUMP"},{"in":1933430,"out":1935000,"index":1,"text":"STEVE MNUCHIN"},{"in":2700000,"out":2704340,"index":1,"text":"JEFF BEZOS"}],"programSegments":[{"in":101000,"out":149000,"index":1,"type":"VPER","entities":[],"terms":["PRES. TRUMP MOVES T0 UNDERMINE OBAWKARE E IRAN DEAL","20171013TODD791C_FIN"]},{"in":171000,"out":219000,"index":1,"type":"VPER","entities":[],"terms":["PRES. TRUMP TAKES NEW STEPS TO UNRAVEL OBAMACARE","20171013TRUMP181B_FIN"]},{"in":285000,"out":313000,"index":1,"type":"VPER","entities":[],"terms":["PRES. TRUMP TAKES NEW STEPS TO UNRAVEL OBAMACARE","20171013TODD2DCE_FIN"]},{"in":355000,"out":415000,"index":1,"type":"VPER","entities":[],"terms":["PR3. TRUMP. OBAMACARE SUBSIDIES A HPAYOFFn T0 INSURANCE COMPANIES","20171013CLINTON0B50_FIN"]},{"in":455000,"out":484000,"index":1,"type":"VPER","entities":[],"terms":["REP. DIANE BLACK   (menwessee","20171013CLINTON5199_FIN"]},{"in":544000,"out":592000,"index":1,"type":"VPER","entities":[],"terms":["REP. DIANE BLACK   (mTENNESSEE","20171013CLINTON8D5E_FIN"]},{"in":617000,"out":675000,"index":1,"type":"VPER","entities":[],"terms":["REP. DIANE BLACK   (meNNessee","20171013TODD6157_FIN"]},{"in":684000,"out":706000,"index":1,"type":"VPER","entities":[],"terms":["REP. DIANE BLACK   (menwessee","20171013CORKERS8224_FIN"]},{"in":708000,"out":748000,"index":1,"type":"VPER","entities":[],"terms":["PRES. TRUMP TAKES NEW STEPS TO UNRAVEL 08AMACARE","20171013TODD5D08_FIN"]},{"in":750000,"out":782000,"index":1,"type":"VPER","entities":[],"terms":["PRES. TRUMP TAKES NEW STEPS TO UNRAVEL OBAMACARE","20171013SEBELIUS8643_FIN"]},{"in":782000,"out":852000,"index":1,"type":"VPER","entities":[],"terms":["KATHLEEN SEBELIUS magmaHUMANSEmassEcmRV","20171013SEBELIUSE01A_FIN"]},{"in":879000,"out":971000,"index":1,"type":"VPER","entities":[],"terms":["KATHLEEN SEBELlUS ggggrgggtggciggw","20171013SEBELIUS8F16_FIN"]},{"in":971000,"out":1040000,"index":1,"type":"VPER","entities":[],"terms":["KATHLEEN SEBELIUS :gggrggggcgggw","20171013SEBELIUS180C_FIN"]},{"in":1400000,"out":1467000,"index":1,"type":"VPER","entities":[],"terms":["PRES TRUMP TAKES NEW STEPS TO UNRAVEL OBAMACARE","20171013TODDBF2D_FIN"]},{"in":1660000,"out":1698000,"index":1,"type":"VPER","entities":[],"terms":["PRES. TRUMR DEMS SHOULD COME TO WH  NEGOTIATE NEW HEALTH BILL","20171013CURRYF71C_FIN"]},{"in":1708000,"out":1727000,"index":1,"type":"VPER","entities":[],"terms":["PRES. TRUMR UNRAVELING OBAMACARE HSTEP BY STEV BECAUSE CONGRBS DIDNT TAKE ACTION","20171013MARCUS7DE6_FIN"]},{"in":2356000,"out":2386000,"index":1,"type":"VPER","entities":[],"terms":["LEON PANETrA FMR. SECRETARY OF DEFENSE","20171013PANETTACD30_FIN"]},{"in":1998000,"out":2108000,"index":1,"type":"VPER","entities":[],"terms":["PRES. TRUMP DECERTIFIES IRAN DEAL  ISSUES NEW SANCT IONS","20171013TODDD007_FIN"]},{"in":2477000,"out":2574000,"index":1,"type":"VPER","entities":[],"terms":["LEON PANETrA FMR. SECRETARV OF DEFENSE","20171013PANETTA897F_FIN"]},{"in":2386000,"out":2460000,"index":1,"type":"VPER","entities":[],"terms":["PRES. TRUMP PASSES IRAN DEAL NEXT STEP T0 CONGRESS","20171013PANETTAF0A1_FIN"]},{"in":2639000,"out":2664000,"index":1,"type":"VPER","entities":[],"terms":["JOHN KELLY   WHITE HOUSE CHXEF OF STAFF","20171013KENTD635_FIN"]},{"in":2574000,"out":2639000,"index":1,"type":"VPER","entities":[],"terms":["LEON PANETrA FMR. WH CHIEF 0!: STAFF","20171013PANETTAC287_FIN"]},{"in":2981000,"out":2996000,"index":1,"type":"VPER","entities":[],"terms":["V LASER SPINE INST","20171013L.A46E_FIN"]},{"in":2671000,"out":2704000,"index":1,"type":"VPER","entities":[],"terms":["LEON PANETrA FMR. WH CHIEF OF STAFF","20171013PANETTAE21D_FIN"]},{"in":3221000,"out":3264000,"index":1,"type":"VIDRO","entities":[],"terms":["20171013_727D73_FIN"]}]}}
+{
+  "title": "MTP Daily: 20171013",
+  "subtitle": "http://54.226.255.57/media/control1_cnbc/1034_20171013170000",
+  "startDateUtc": 0,
+  "description": "MTP Daily: 20171013",
+  "genres": [],
+  "duration": "3600000",
+  "isoDuration": "PT3600.0000",
+  "externalIds": {
+    "externalIdKey1": "20171013TODD791C_FIN",
+    "externalIdKey2": "20171013TRUMP181B_FIN",
+    "externalIdKey3": "20171013TODD2DCE_FIN",
+    "externalIdKey4": "20171013CLINTON0B50_FIN",
+    "externalIdKey5": "20171013CLINTON5199_FIN",
+    "externalIdKey6": "20171013CLINTON8D5E_FIN",
+    "externalIdKey7": "20171013TODD6157_FIN",
+    "externalIdKey8": "20171013CORKERS8224_FIN",
+    "externalIdKey9": "20171013TODD5D08_FIN",
+    "externalIdKey10": "20171013SEBELIUS8643_FIN",
+    "externalIdKey11": "20171013SEBELIUSE01A_FIN",
+    "externalIdKey12": "20171013SEBELIUS8F16_FIN",
+    "externalIdKey13": "20171013SEBELIUS180C_FIN",
+    "externalIdKey14": "20171013TODDBF2D_FIN",
+    "externalIdKey15": "20171013CURRYF71C_FIN",
+    "externalIdKey16": "20171013MARCUS7DE6_FIN",
+    "externalIdKey17": "20171013PANETTACD30_FIN",
+    "externalIdKey18": "20171013TODDD007_FIN",
+    "externalIdKey19": "20171013PANETTA897F_FIN",
+    "externalIdKey20": "20171013PANETTAF0A1_FIN",
+    "externalIdKey21": "20171013KENTD635_FIN",
+    "externalIdKey22": "20171013PANETTAC287_FIN",
+    "externalIdKey23": "20171013L.A46E_FIN",
+    "externalIdKey24": "20171013PANETTAE21D_FIN",
+    "externalIdKey25": "20171013_727D73_FIN"
+  },
+  "frameRate": "29.97",
+  "totalFrames": "104400",
+  "events": {
+    "keyterms": [],
+    "namedEntities": [
+      {
+        "in": 56620,
+        "out": 64560,
+        "index": 1,
+        "text": "DONALD TRUMP"
+      },
+      {
+        "in": 171940,
+        "out": 180380,
+        "index": 1,
+        "text": "DONALD TRUMP"
+      },
+      {
+        "in": 181310,
+        "out": 219050,
+        "index": 1,
+        "text": "DONALD TRUMP"
+      },
+      {
+        "in": 233170,
+        "out": 244080,
+        "index": 1,
+        "text": "DONALD TRUMP"
+      },
+      {
+        "in": 244240,
+        "out": 251580,
+        "index": 1,
+        "text": "DONALD TRUMP"
+      },
+      {
+        "in": 251580,
+        "out": 257190,
+        "index": 1,
+        "text": "DONALD TRUMP"
+      },
+      {
+        "in": 277640,
+        "out": 285820,
+        "index": 1,
+        "text": "DONALD TRUMP"
+      },
+      {
+        "in": 315020,
+        "out": 327990,
+        "index": 1,
+        "text": "HILLARY CLINTON"
+      },
+      {
+        "in": 327990,
+        "out": 333630,
+        "index": 1,
+        "text": "HILLARY CLINTON"
+      },
+      {
+        "in": 336940,
+        "out": 355620,
+        "index": 1,
+        "text": "HILLARY CLINTON"
+      },
+      {
+        "in": 355620,
+        "out": 401570,
+        "index": 1,
+        "text": "HILLARY CLINTON"
+      },
+      {
+        "in": 401570,
+        "out": 415120,
+        "index": 1,
+        "text": "HILLARY CLINTON"
+      },
+      {
+        "in": 415120,
+        "out": 433030,
+        "index": 1,
+        "text": "HILLARY CLINTON"
+      },
+      {
+        "in": 433030,
+        "out": 439440,
+        "index": 1,
+        "text": "HILLARY CLINTON"
+      },
+      {
+        "in": 439440,
+        "out": 455690,
+        "index": 1,
+        "text": "HILLARY CLINTON"
+      },
+      {
+        "in": 455690,
+        "out": 484580,
+        "index": 1,
+        "text": "HILLARY CLINTON"
+      },
+      {
+        "in": 484580,
+        "out": 499600,
+        "index": 1,
+        "text": "HILLARY CLINTON"
+      },
+      {
+        "in": 499600,
+        "out": 516650,
+        "index": 1,
+        "text": "HILLARY CLINTON"
+      },
+      {
+        "in": 516650,
+        "out": 544340,
+        "index": 1,
+        "text": "HILLARY CLINTON"
+      },
+      {
+        "in": 544340,
+        "out": 562600,
+        "index": 1,
+        "text": "HILLARY CLINTON"
+      },
+      {
+        "in": 562600,
+        "out": 592130,
+        "index": 1,
+        "text": "HILLARY CLINTON"
+      },
+      {
+        "in": 592130,
+        "out": 599730,
+        "index": 1,
+        "text": "HILLARY CLINTON"
+      },
+      {
+        "in": 1505440,
+        "out": 1509540,
+        "index": 1,
+        "text": "STEPH CURRY"
+      },
+      {
+        "in": 1518650,
+        "out": 1522690,
+        "index": 1,
+        "text": "STEPH CURRY"
+      },
+      {
+        "in": 1550980,
+        "out": 1556090,
+        "index": 1,
+        "text": "STEPH CURRY"
+      },
+      {
+        "in": 1566370,
+        "out": 1568840,
+        "index": 1,
+        "text": "STEPH CURRY"
+      },
+      {
+        "in": 1583450,
+        "out": 1589320,
+        "index": 1,
+        "text": "STEPH CURRY"
+      },
+      {
+        "in": 1624590,
+        "out": 1628130,
+        "index": 1,
+        "text": "STEPH CURRY"
+      },
+      {
+        "in": 1637140,
+        "out": 1641610,
+        "index": 1,
+        "text": "STEPH CURRY"
+      },
+      {
+        "in": 1651950,
+        "out": 1653590,
+        "index": 1,
+        "text": "STEPH CURRY"
+      },
+      {
+        "in": 1660990,
+        "out": 1662960,
+        "index": 1,
+        "text": "STEPH CURRY"
+      },
+      {
+        "in": 1693690,
+        "out": 1698230,
+        "index": 1,
+        "text": "STEPH CURRY"
+      },
+      {
+        "in": 1727930,
+        "out": 1732870,
+        "index": 1,
+        "text": "STEPH CURRY"
+      },
+      {
+        "in": 1737500,
+        "out": 1742140,
+        "index": 1,
+        "text": "STEPH CURRY"
+      },
+      {
+        "in": 1752120,
+        "out": 1754450,
+        "index": 1,
+        "text": "STEPH CURRY"
+      },
+      {
+        "in": 1774870,
+        "out": 1782120,
+        "index": 1,
+        "text": "DONALD TRUMP"
+      },
+      {
+        "in": 1933430,
+        "out": 1935000,
+        "index": 1,
+        "text": "STEVE MNUCHIN"
+      },
+      {
+        "in": 2700000,
+        "out": 2704340,
+        "index": 1,
+        "text": "JEFF BEZOS"
+      }
+    ],
+    "programSegments": [
+      {
+        "in": 1000,
+        "out": 1050,
+        "index": 1,
+        "type": "VPER",
+        "entities": [],
+        "terms": [
+          "PRES. TRUMP MOVES T0 UNDERMINE OBAMACARE AFTER IRAN DEAL",
+          "20171013TODD791C_FIN"
+        ]
+      },
+      {
+        "in": 3000,
+        "out": 5000,
+        "index": 1,
+        "type": "VPER",
+        "entities": [],
+        "terms": [
+          "PRES. TRUMP TAKES NEW STEPS TO UNRAVEL OBAMACARE",
+          "20171013TRUMP181B_FIN"
+        ]
+      },
+      {
+        "in": 5000,
+        "out": 7000,
+        "index": 1,
+        "type": "VPER",
+        "entities": [],
+        "terms": [
+          "PR3. TRUMP. OBAMACARE SUBSIDIES A PAYOFF T0 INSURANCE COMPANIES",
+          "20171013CLINTON0B50_FIN"
+        ]
+      },
+      {
+        "in": 750000,
+        "out": 782000,
+        "index": 1,
+        "type": "VPER",
+        "entities": [],
+        "terms": [
+          "PRES. TRUMP TAKES NEW STEPS TO UNRAVEL OBAMACARE",
+          "20171013SEBELIUS8643_FIN"
+        ]
+      },
+      {
+        "in": 782000,
+        "out": 852000,
+        "index": 1,
+        "type": "VPER",
+        "entities": [],
+        "terms": [
+          "KATHLEEN SEBELIUS magmaHUMANSEmassEcmRV",
+          "20171013SEBELIUSE01A_FIN"
+        ]
+      },
+      {
+        "in": 879000,
+        "out": 971000,
+        "index": 1,
+        "type": "VPER",
+        "entities": [],
+        "terms": [
+          "KATHLEEN SEBELlUS ggggrgggtggciggw",
+          "20171013SEBELIUS8F16_FIN"
+        ]
+      },
+      {
+        "in": 971000,
+        "out": 1040000,
+        "index": 1,
+        "type": "VPER",
+        "entities": [],
+        "terms": [
+          "KATHLEEN SEBELIUS :gggrggggcgggw",
+          "20171013SEBELIUS180C_FIN"
+        ]
+      },
+      {
+        "in": 1400000,
+        "out": 1467000,
+        "index": 1,
+        "type": "VPER",
+        "entities": [],
+        "terms": [
+          "PRES TRUMP TAKES NEW STEPS TO UNRAVEL OBAMACARE",
+          "20171013TODDBF2D_FIN"
+        ]
+      },
+      {
+        "in": 1660000,
+        "out": 1698000,
+        "index": 1,
+        "type": "VPER",
+        "entities": [],
+        "terms": [
+          "PRES. TRUMR DEMS SHOULD COME TO WH  NEGOTIATE NEW HEALTH BILL",
+          "20171013CURRYF71C_FIN"
+        ]
+      },
+      {
+        "in": 1708000,
+        "out": 1727000,
+        "index": 1,
+        "type": "VPER",
+        "entities": [],
+        "terms": [
+          "PRES. TRUMR UNRAVELING OBAMACARE HSTEP BY STEV BECAUSE CONGRBS DIDNT TAKE ACTION",
+          "20171013MARCUS7DE6_FIN"
+        ]
+      },
+      {
+        "in": 2356000,
+        "out": 2386000,
+        "index": 1,
+        "type": "VPER",
+        "entities": [],
+        "terms": [
+          "LEON PANETrA FMR. SECRETARY OF DEFENSE",
+          "20171013PANETTACD30_FIN"
+        ]
+      },
+      {
+        "in": 1998000,
+        "out": 2108000,
+        "index": 1,
+        "type": "VPER",
+        "entities": [],
+        "terms": [
+          "PRES. TRUMP DECERTIFIES IRAN DEAL  ISSUES NEW SANCT IONS",
+          "20171013TODDD007_FIN"
+        ]
+      },
+      {
+        "in": 2477000,
+        "out": 2574000,
+        "index": 1,
+        "type": "VPER",
+        "entities": [],
+        "terms": [
+          "LEON PANETrA FMR. SECRETARV OF DEFENSE",
+          "20171013PANETTA897F_FIN"
+        ]
+      },
+      {
+        "in": 2386000,
+        "out": 2460000,
+        "index": 1,
+        "type": "VPER",
+        "entities": [],
+        "terms": [
+          "PRES. TRUMP PASSES IRAN DEAL NEXT STEP T0 CONGRESS",
+          "20171013PANETTAF0A1_FIN"
+        ]
+      },
+      {
+        "in": 2639000,
+        "out": 2664000,
+        "index": 1,
+        "type": "VPER",
+        "entities": [],
+        "terms": [
+          "JOHN KELLY   WHITE HOUSE CHXEF OF STAFF",
+          "20171013KENTD635_FIN"
+        ]
+      },
+      {
+        "in": 2574000,
+        "out": 2639000,
+        "index": 1,
+        "type": "VPER",
+        "entities": [],
+        "terms": [
+          "LEON PANETrA FMR. WH CHIEF 0!: STAFF",
+          "20171013PANETTAC287_FIN"
+        ]
+      },
+      {
+        "in": 2981000,
+        "out": 2996000,
+        "index": 1,
+        "type": "VPER",
+        "entities": [],
+        "terms": [
+          "V LASER SPINE INST",
+          "20171013L.A46E_FIN"
+        ]
+      },
+      {
+        "in": 2671000,
+        "out": 2704000,
+        "index": 1,
+        "type": "VPER",
+        "entities": [],
+        "terms": [
+          "LEON PANETrA FMR. WH CHIEF OF STAFF",
+          "20171013PANETTAE21D_FIN"
+        ]
+      },
+      {
+        "in": 3221000,
+        "out": 3264000,
+        "index": 1,
+        "type": "VIDRO",
+        "entities": [],
+        "terms": [
+          "20171013_727D73_FIN"
+        ]
+      }
+    ]
+  }
+}
