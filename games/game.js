@@ -7,15 +7,21 @@ var game = (function() {
   var isOverlapping = false;
   var shotTimer = null;
   var basket = null;
+  var ball = null;
   var score = 0;
   var scoreText = null;
 
   var SHOT_VELOCITY_X = 0;
   var SHOT_VELOCITY_Y = 40;
   var SHOT_VELOCITY_Z = -20;
+  var SHOT_TIMER = 3000;
 
   function shootBall(ballElem) {
     ballElem.body.applyLocalImpulse(new CANNON.Vec3(SHOT_VELOCITY_X, SHOT_VELOCITY_Y, SHOT_VELOCITY_Z), new CANNON.Vec3(0, 0, 0));
+  }
+
+  function getRandomInt(min, max) {
+    return Math.floor(Math.random() * (max - min + 1)) + min;
   }
 
   function checkOverlap(overlapper) {
@@ -37,16 +43,11 @@ var game = (function() {
   }
 
   AFRAME.registerComponent('ball', {
-    schema: {
-      radius: {type: 'number', default: 1},
-      color: {type: 'color', default: '#F00'}
-    },
-
     init() {
-      this.geometry = new THREE.SphereBufferGeometry(this.data.radius);
-      this.material = new THREE.MeshStandardMaterial({color: this.data.color});
-      this.mesh = new THREE.Mesh(this.geometry, this.material);
-      this.el.setObject3D('mesh', this.mesh);
+      // this.geometry = new THREE.SphereBufferGeometry(this.data.radius);
+      // this.material = new THREE.MeshStandardMaterial({color: this.data.color});
+      // this.mesh = new THREE.Mesh(this.geometry, this.material);
+      // this.el.setObject3D('mesh', this.mesh);
     },
 
     tick: function(time, timeDelta) {
@@ -71,7 +72,35 @@ var game = (function() {
             hasShot = false;
             isShooting = false;
             isOverlapping = false;
-            shotTimer = Date.now() + 5000;
+            var rndInt = getRandomInt(0, 3);
+            switch(rndInt) {
+              case 0:
+                console.log('money');
+                ball.setAttribute('collada-model', '#money-model');
+                ball.setAttribute('scale', '1 1 1');
+                break;
+              case 1:
+                console.log('google');
+                ball.setAttribute('collada-model', '#google-model');
+                ball.setAttribute('scale', '0.1 0.1 0.1');
+                break;
+              case 2:
+                console.log('amazon');
+                ball.setAttribute('collada-model', '#amazon-model');
+                ball.setAttribute('scale', '1 1 1');
+                break;
+              case 3:
+                console.log('microsoft');
+                ball.setAttribute('collada-model', '#microsoft-model');
+                ball.setAttribute('scale', '0.05 0.05 0.05');
+                break;
+              default:
+                console.log('default');
+                ball.setAttribute('collada-model', '#money-model');
+                ball.setAttribute('scale', '0.1 0.1 0.1');
+                break;
+            }
+            shotTimer = Date.now() + SHOT_TIMER;
           }
         }
 
@@ -89,14 +118,14 @@ var game = (function() {
   document.addEventListener("DOMContentLoaded", function() {
     var camera = document.querySelector('[camera]');
     var scene = document.querySelector('a-scene');
-    var ball = document.querySelector('[ball]');
+    ball = document.querySelector('[ball]');
     basket = document.querySelector('#basket');
     scoreText = document.querySelector('#scoreText');
 
     scene.addEventListener('click', function(e) {
       if(!hasShot) {
         hasShot = true;
-        shotTimer = Date.now() + 5000;
+        shotTimer = Date.now() + SHOT_TIMER;
       }
     });
   });
