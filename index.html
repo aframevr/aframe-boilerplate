@@ -10,13 +10,13 @@
     <a-scene>
 
       <a-assets>
-        <a-asset-item id="room-model" src="assets/nbc_room/model.dae"></a-asset-item>
+        <a-asset-item id="room-model" src="assets/newsroom/newsroom.dae"></a-asset-item>
         <a-asset-item id="speaker-model" src="assets/speaker/model.dae"></a-asset-item>
       </a-assets>
 
       <a-entity
         camera
-        position="0.275 1.292 1.222"
+        position="-1.725 1.292 -2.778"
         rotation="0 0 0"
         look-controls="standing: false"
         wasd-controls>
@@ -32,7 +32,7 @@
           material="color: white; shader: flat">
         </a-entity>
       </a-entity>
-      <a-entity collada-model="speaker-model" position="0 1 0"></a-entity>
+      <a-entity collada-model="#speaker-model" position="0 1 0"></a-entity>
       <a-entity collada-model="#room-model" rotation="0 180 0"></a-entity>
       <a-sky color="#ECECEC"></a-sky>
     </a-scene>
