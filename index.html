@@ -4,8 +4,16 @@
     <meta charset="utf-8">
     <title>Octopus VR</title>
     <meta name="description" content="Octopus VR">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <script src="https://aframe.io/releases/0.7.0/aframe.min.js"></script>
     <script src="components/tv.js"></script>
+    <style media="screen">
+      .demo-nav  {
+        position: absolute;
+        bottom: 10px;
+        left: 20px;
+      }
+    </style>
     <link rel="icon" href="favicon.ico" />
   </head>
   <body>
@@ -75,5 +83,23 @@
         rotation="0 -45 0">
       </a-entity>
     </a-scene>
+    <div class="demo-nav">
+      <button class="btn" id="cam1" type="button" name="button">Camera 1</button>
+      <button class="btn" id="cam2" type="button" name="button">Camera 2</button>
+      <button class="btn" id="cam3" type="button" name="button">Camera 3</button>
+    </div>
+    <script type="text/javascript">
+      function handler(e) {
+         console.log('id:', this.id);
+      }
+      var cam1 = document.getElementById('cam1');
+      cam1.addEventListener('click', handler);
+
+      var cam2 = document.getElementById('cam2');
+      cam2.addEventListener('click', handler);
+
+      var cam3 = document.getElementById('cam3');
+      cam3.addEventListener('click', handler);
+    </script>
   </body>
 </html>
