@@ -1,7 +1,7 @@
 {
-  "name": "aframe-hello-world-boilerplate",
-  "description": "Boilerplate with A-Frame's 'Hello, World!' of WebVR.",
-  "version": "0.3.0",
+  "name": "peachree-corners-veterans-monument",
+  "description": "Peachtree Corners Veterans Monument A-Frame Scene",
+  "version": "0.0.1",
   "license": "MIT",
   "scripts": {
     "start": "budo --live --verbose --port 3000 --open",
@@ -15,7 +15,6 @@
   "keywords": [
     "aframe",
     "aframe-example",
-    "aframe-boilerplate",
     "aframe-scene",
     "webvr",
     "vr"
