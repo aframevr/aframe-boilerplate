@@ -1,10 +1,6 @@
-# A-Frame Boilerplate
+# Peachtree Corners Veterans Monument
 
-Boilerplate for creating WebVR scenes with [A-Frame](https://aframe.io).
-
-Alternatively, check out the [A-Frame Starter on
-glitch.com](https://glitch.com/~aframe) for a more interactive way on getting
-started.
+Welcome to the [Peachtree Corners Veterans Monument](http://www.ptcvets.net/) WebVR Scene, based on [A-Frame](https://aframe.io/).
 
 ## Getting Started
 
@@ -14,7 +10,7 @@ There are two easy options for obtaining this A-Frame scene. It's then up to you
 
 [<img src="http://i.imgur.com/UVPZoM0.png" width="200">](https://github.com/aframevr/aframe-boilerplate/archive/master.zip)
 
-After you have __[downloaded and extracted this `.zip` file](https://github.com/aframevr/aframe-boilerplate/archive/master.zip)__ containing the contents of this repo, open the resulting directory, and you'll be have your scene ready in these few steps:
+After you have __[downloaded and extracted this `.zip` file](https://github.com/Peachtree-Corners-Vetereans-Monument/aframe-boilerplate/archive/master.zip)__ containing the contents of this repo, open the resulting directory, and you'll be have your scene ready in these few steps:
 
     npm install && npm start
     open http://localhost:3000/
@@ -23,11 +19,11 @@ After you have __[downloaded and extracted this `.zip` file](https://github.com/
 
 ### <small><sup>Option 2:</sup> Fork this Git repo 🍴🐙
 
-Alternatively, you can __[fork this repo](https://github.com/aframevr/aframe-boilerplate/fork)__ to get started, if you'd like to maintain a Git workflow.
+Alternatively, you can __[fork this repo](https://github.com/Peachtree-Corners-Vetereans-Monument/aframe-boilerplate/fork)__ to get started, if you'd like to maintain a Git workflow.
 
-After you have __[forked this repo](https://github.com/aframevr/aframe-boilerplate/fork)__, clone a copy of your fork locally and you'll be have your scene ready in these few steps:
+After you have __[forked this repo](https://github.com/Peachtree-Corners-Vetereans-Monument/aframe-boilerplate/fork)__, clone a copy of your fork locally and you'll be have your scene ready in these few steps:
 
-    git clone https://github.com/aframevr/aframe-boilerplate.git
+    git clone https://github.com/Peachtree-Corners-Vetereans-Monument/aframe-boilerplate.git
     cd aframe-boilerplate && rm -rf .git && npm install && npm start
     open http://localhost:3000/
 
@@ -37,7 +33,7 @@ After you have __[forked this repo](https://github.com/aframevr/aframe-boilerpla
 
 ### <small><sup>Option 3:</sup> Fork this CodePen example 🍴💾✒️
 
-Or, you can simply __[fork this CodePen example](http://codepen.io/team/mozvr/pen/BjygdO?editors=100)__ to dive right in. Enjoy!
+Or, you can simply __[fork this CodePen example](https://codepen.io/seandunlap/full/mLKexe/)__ to dive right in. Enjoy!
 
 
 ## Publishing your scene
