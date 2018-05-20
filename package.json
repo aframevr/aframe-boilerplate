@@ -18,5 +18,8 @@
     "aframe-scene",
     "webvr",
     "vr"
-  ]
+  ],
+  "dependencies": {
+    "npm": "^6.0.1"
+  }
 }
