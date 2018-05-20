@@ -1,6 +1,19 @@
 # Peachtree Corners Veterans Monument
 
-Welcome to the [Peachtree Corners Veterans Monument](http://www.ptcvets.net/) WebVR Scene, based on [A-Frame](https://aframe.io/).
+Welcome to the [Peachtree Corners Veterans Monument](http://www.ptcvets.net/) [WebVR Scene](https://Peachtree-Corners-Vetereans-Monument.github.io/WebVR/), based on [A-Frame](https://aframe.io/).
+
+## Core Team
+
+* Stephen Dunlap - Senior, Wesleyan School
+* Ethan Howe - Senior, Norcross High School
+* Ian Venkatesan - Senior, Welseyan School
+* Jason Yu - Junior, Gwinnett School of Mathematics, Science, and Technology
+* Abel Abraham - Junior, Gwinnett School of Mathematics, Science, and Technology
+* Michelle Coker - Junior, Gwinnett School of Mathematics, Science, and Technology
+* Connor Allsup - Sophomore, Lambert High School
+
+## Mentors
+* [Sean Dunlap](https://www.linkedin.com/in/seandunlap/) - Broadcom Ltd.
 
 ## Getting Started
 
