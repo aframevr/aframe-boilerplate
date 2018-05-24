@@ -2,22 +2,6 @@
 
 Welcome to the [Peachtree Corners Veterans Monument](http://www.ptcvets.net/) [WebVR Scene](https://Peachtree-Corners-Vetereans-Monument.github.io/WebVR/), based on [A-Frame](https://aframe.io/).
 
-## Core Team
-
-* Stephen Dunlap - Senior, Wesleyan School
-* Ethan Howe - Senior, Norcross High School
-* Ian Venkatesan - Senior, Welseyan School
-* Jason Yu - Junior, Gwinnett School of Mathematics, Science, and Technology
-* Abel Abraham - Junior, Gwinnett School of Mathematics, Science, and Technology
-* Michelle Coker - Junior, Gwinnett School of Mathematics, Science, and Technology
-* Connor Allsup - Sophomore, Lambert High School
-
-## Mentors
-* [Sean Dunlap](https://www.linkedin.com/in/seandunlap/) - Broadcom Ltd.
-* [Mark Treager](https://www.linkedin.com/in/mark-treager/) - Cornerstone Media Group
-* [Nashlee Young](https://www.linkedin.com/in/nashlee-young-269297b/) - Emnovate / Atlanta Tech Park
-* [Robin Beinfait](https://www.linkedin.com/in/mark-treager/) - Emnovate / Atlanta Tech Park
-
 ## Getting Started
 
 There are two easy options for obtaining this A-Frame scene. It's then up to you to make it your own!
@@ -97,6 +81,9 @@ If you wish to serve the site from a different port:
 
     PORT=8000 npm start
 
+## Contributing
+
+Get involved! Check out the [Contributing Guide](CONTRIBUTING.md) for how to get started
 
 ## License
 
