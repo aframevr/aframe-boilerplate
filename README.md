@@ -14,6 +14,9 @@ Welcome to the [Peachtree Corners Veterans Monument](http://www.ptcvets.net/) [W
 
 ## Mentors
 * [Sean Dunlap](https://www.linkedin.com/in/seandunlap/) - Broadcom Ltd.
+* [Mark Treager](https://www.linkedin.com/in/mark-treager/) - Cornerstone Media Group
+* [Nashlee Young](https://www.linkedin.com/in/nashlee-young-269297b/) - Emnovate / Atlanta Tech Park
+* [Robin Beinfait](https://www.linkedin.com/in/mark-treager/) - Emnovate / Atlanta Tech Park
 
 ## Getting Started
 
