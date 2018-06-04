@@ -1,7 +1,3 @@
-# Peachtree Corners Veterans Monument
-
-Welcome to the [Peachtree Corners Veterans Monument](http://www.ptcvets.net/) [WebVR Scene](https://Peachtree-Corners-Vetereans-Monument.github.io/WebVR/), based on [A-Frame](https://aframe.io/).
-
 ## Getting Started
 
 There are two easy options for obtaining this A-Frame scene. It's then up to you to make it your own!
