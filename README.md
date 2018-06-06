@@ -1,3 +1,60 @@
+# Welcome
+
+Welcome to the development home for the Peachtree Corners Veterans Monument WebVR experience. The development team is staffed by a rag-tag team of smart STEM-oriented high school students from 5 area high schools.  Part-time mentorship is provided by a team of local professionals who live and work in Technology Park, in Peachtree Corners, GA.
+
+## Development Team
+
+* Stephen Dunlap - Senior, Wesleyan School
+* Ethan Howe - Senior, Norcross High School
+* Ian Venkatesan - Senior, Wesleyan School
+* Jason Yu - Junior, Gwinnett School of Mathematics, Science, and Technology
+* Abel Abraham - Junior, Gwinnett School of Mathematics, Science, and Technology
+* Michelle Coker - Junior, Gwinnett School of Mathematics, Science, and Technology
+* Connor Allsup - Sophomore, Lambert High School
+
+## Mentors
+
+* [Sean Dunlap](https://www.linkedin.com/in/seandunlap/) - Broadcom Ltd.
+* [Mark Treager](https://www.linkedin.com/in/mark-treager/) - Cornerstone Media Group
+* [Nashlee Young](https://www.linkedin.com/in/nashlee-young-269297b/) - Emnovate / Atlanta Tech Park
+* [Robin Beinfait](https://www.linkedin.com/in/mark-treager/) - Emnovate / Atlanta Tech Park
+
+# Contributing
+
+Interested in contributing? As an open source project, we'd appreciate any help
+and contributions! 
+
+## Join the Team on Slack
+
+1. [Invite yourself](https://ptcvets.slack.com/join/shared_invite/enQtMzYyNDM0MDI5NjUyLWE4MjA5OWFjZWJiNzk1ZTNmMTRhZjVkZDI4NGJhZmE0YjJjMDA3NWU3YjExMjI4NjhhM2MxZWJjYjJjNDZmNjU) to the PCVMA Slack channel.
+
+## File an Issue or Change Request
+
+1. Search the [issue tracker](https://github.com/Peachtree-Corners-Vetereans-Monument/WebVR/issues) for similar issues.
+2. Specify information about your browser and system (e.g., "Firefox Nightly on OS X")
+3. Describe the problem in detail (i.e., what happened and what you expected would happen).
+4. If possible, provide a small test case with [CodePen](http://codepen.io), a link to your application, and/or a screenshot. You can fork this [sample pen](http://codepen.io/anon/pen/KVWpbb).
+
+## Contribute Code
+
+1. Have a [GitHub account](https://github.com/join) with [SSH keys][ssh] set up.
+2. [Fork](https://github.com/Peachtree-Corners-Vetereans-Monument/WebVR/fork) the repository on GitHub.
+3. Clone your fork of the repository locally (i.e., `git clone git@github.com:yourusername/WebVR`).
+4. Run `npm install` to get dependencies and `npm run dev` to serve the test examples.
+5. Create a branch to work in (i.e., `git checkout -b mybranch`).
+6. Make changes to your fork of the repository, commit them, and push them (i.e., `git add -A . && git commit -m 'My Changes (fixes #1234)' && git push origin mybranch`).
+7. If necessary, write [unit tests](tests/) ([guide][testing-guide]) and run with `npm test`.
+8. [Submit a pull request][pr] to the master branch. If you head to the [master repository](https://github.com/Peachtree-Corners-Vetereans-Monument/WebVR/wiki/Home/_edit) after running `git push` from earlier, you should see a pop up to submit a pull request.
+9. [Address review comments](http://stackoverflow.com/questions/9790448/how-to-update-a-pull-request) if any.
+
+## On GitHub
+
+1. Help respond to [newly-filed GitHub issues](https://github.com/Peachtree-Corners-Vetereans-Monument/WebVR/issues)
+2. Redirect developers to [Stack Overflow][stackoverflow] if a question is filed rather than an issue.
+3. For extra points, cross-post and answer the question on Stack Overflow after redirecting!
+
+
+
 ## Getting Started
 
 There are two easy options for obtaining this A-Frame scene. It's then up to you to make it your own!
@@ -30,7 +87,6 @@ After you have __[forked this repo](https://github.com/Peachtree-Corners-Veterea
 ### <small><sup>Option 3:</sup> Fork this CodePen example 🍴💾✒️
 
 Or, you can simply __[fork this CodePen example](https://codepen.io/seandunlap/full/mLKexe/)__ to dive right in. Enjoy!
-
 
 ## Publishing your scene
 
@@ -76,10 +132,6 @@ Then launch the site from your favourite browser:
 If you wish to serve the site from a different port:
 
     PORT=8000 npm start
-
-## Contributing
-
-Get involved! Check out the [Contributing Guide](CONTRIBUTING.md) for how to get started
 
 ## License
 
