@@ -1,7 +1,7 @@
 {
-  "name": "aframe-hello-world-boilerplate",
-  "description": "Boilerplate with A-Frame's 'Hello, World!' of WebVR.",
-  "version": "0.3.0",
+  "name": "peachree-corners-veterans-monument",
+  "description": "Peachtree Corners Veterans Monument A-Frame Scene",
+  "version": "0.0.1",
   "license": "MIT",
   "scripts": {
     "start": "budo --live --verbose --port 3000 --open",
@@ -10,14 +10,19 @@
   },
   "devDependencies": {
     "budo": "^7.0.0",
+    "gh-pages": "^1.2.0",
     "ghpages": "0.0.3"
   },
   "keywords": [
     "aframe",
     "aframe-example",
-    "aframe-boilerplate",
     "aframe-scene",
     "webvr",
     "vr"
-  ]
+  ],
+  "dependencies": {
+    "aframe-fps-look-controls-component": "^1.1.0",
+    "gltf-validator": "^2.0.0-dev.2.2",
+    "npm": "^6.0.1"
+  }
 }
