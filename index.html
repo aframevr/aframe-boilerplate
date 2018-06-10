@@ -4,19 +4,21 @@
     <meta charset="utf-8">
     <title>Peachtree Corners Veterans Monument - A-Frame</title>
     <meta name="description" content="Peachtree Corners Veterans Monument!">
-    <script src="https://aframe.io/releases/0.5.0/aframe.min.js"></script>
-    <script src="https://button.glitch.me/button.js"></script>  
+    <script src="https://rawgit.com/aframevr/aframe/7c41e40/dist/aframe-master.min.js"></script>
   </head>
+
   <body>
+
       <a-scene stats>
-        
+
           <a-assets>
             <a-asset-item id="monument" src="assets/models/monument/scene.gltf"></a-asset-item>
           </a-assets>
 
           <a-gltf-model src="#monument"></a-gltf-model>
+          <a-sky color="#6EBAA7"></a-sky>
 
-        </a-scene>
-    <div class="glitchButton"></div>
+      </a-scene>
+
   </body>
 </html>

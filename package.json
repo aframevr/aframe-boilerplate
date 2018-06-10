@@ -21,6 +21,8 @@
     "vr"
   ],
   "dependencies": {
+    "aframe-fps-look-controls-component": "^1.1.0",
+    "gltf-validator": "^2.0.0-dev.2.2",
     "npm": "^6.0.1"
   }
 }
