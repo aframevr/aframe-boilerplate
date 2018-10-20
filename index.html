@@ -7,10 +7,13 @@
     <a-scene>
       <a-assets>
         <img src="https://i.imgur.com/mYmmbrp.jpg" id="boxTexture">
+        <img src="https://cdn.aframe.io/360-image-gallery-boilerplate/img/sechelt.jpg" alt="bgTexture" id="skyTexture">
+        <img id="groundTexture" src="https://cdn.aframe.io/a-painter/images/floor.jpg">
       </a-assets>
       <a-box src="#boxTexture" rotation="0 45 45" scale="2 2 2" position="0 2 -5">
       </a-box>
-      <a-sky color="#222"></a-sky>
+      <a-sky src="#skyTexture"></a-sky>
+      <a-plane src="#groundTexture" rotation="-90 0 0" width="30" height="30" repeate="10 10"></a-plane>
     </a-scene>
   <body>
 </html>
